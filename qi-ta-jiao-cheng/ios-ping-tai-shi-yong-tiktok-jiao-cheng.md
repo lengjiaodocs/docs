@@ -24,9 +24,9 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开爱思软件，<mark style="color:red;">**手机必须连接电脑**</mark>，按下图操作(点图片放大看)
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_a8d012455360445f90dd2b00e80cf70f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/08/27/Zz6xi.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_db58fb9e3cd6486eb29660519d960169.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/08/27/Zzl1N.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如果签名未成功，请多尝试几次
@@ -36,17 +36,17 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 导入刚刚<mark style="color:red;">**已经签名的TikTok 安装包**</mark>，按下图操作
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_861007e37e1642ddb71a67c1430e67e3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/radhS.png" alt=""><figcaption></figcaption></figure>
 
 在设置里面信任刚刚安装的Tiktok(点图片放大看)
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_8bac69f95bda4496a767931e558d4a4d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/08/27/ZzYwS.png" alt=""><figcaption></figcaption></figure>
 
 ## 连接Shadowrocket，打开TikTok
 
-打开Tiktok，登录帐号后使用
+<figure><img src="https://i.imgtg.com/2022/07/20/rastN.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221105/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_fb12099c53884c05a3a1e1db4c26a2bd.png" alt=""><figcaption></figcaption></figure>
+打开Tiktok，登录帐号后使用
 
 {% hint style="info" %}
 <mark style="color:red;">请将下载小火箭的美区ID退出来，然后登录刚才签名的苹果ID(自己的苹果ID)</mark>
@@ -56,7 +56,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开Tiktok，登录帐号后切换地区(点图片放大看)
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_0827307619b441c593a7685e0511a779.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/08/27/Zz9DC.png" alt=""><figcaption></figcaption></figure>
 
 ## 签名有效期
 
