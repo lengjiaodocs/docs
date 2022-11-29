@@ -16,6 +16,6 @@
 
 如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android.md)配置好
 
-## 连接Ssr，打开TikTok
+## 连接软件，打开TikTok
 
 <figure><img src="https://i.imgtg.com/2022/07/20/rafWL.png" alt=""><figcaption></figcaption></figure>
