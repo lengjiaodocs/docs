@@ -12,19 +12,19 @@
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_6d2077a9ea2d486a962dab343f5b900b.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_bfb52d47d70e44568932c928aefc4737.png" alt=""><figcaption></figcaption></figure>
 
 2.右键以管理员身份运行软件(360卫士提示，选择全部允许)，粘贴订阅地址
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO97I.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_18f46b4682e944788cffdeaf6bb93257.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOYcG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_100a87cb771c4098acd544534a0d11f6.png" alt=""><figcaption></figcaption></figure>
 
 3.更新订阅
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOVvM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_c0e9ad590b2841b2859afcf43d69e1b3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 通常情况下会提示  “服务器订阅更新成功"。如未提示，请退出软件，重新以管理员身份运行软件。
@@ -32,19 +32,19 @@
 
 4.选择合适的服务器，选择后您就能愉快的上网啦
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO2uF.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_1bf517e88f344adb81fc5c3c41368e59.png" alt=""><figcaption></figcaption></figure>
 
 ## 进阶配置(不推荐使用)
 
 如果某些网站无法解锁，可以勾选『系统代理模式』—『全局模式』。不推荐使用，因为浪费您的流量
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO8z6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_c44a2e7d5b2443f4a40ee9711f0b2701.png" alt=""><figcaption></figcaption></figure>
 
 ## 修改DNS(强烈推荐)
 
-打开软件目录下的dns修改，按下图操作
+<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_c7673318ce224d5b9b31f7d36097bb3a.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
+打开软件目录下的dns修改，按下图操作
 
 {% hint style="info" %}
 修改dns，可以获得良好的速度体验
