@@ -18,7 +18,7 @@
 
 2\. 打开软件，添加订阅地址
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raHyl.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/11/29/48Jic.png" alt=""><figcaption></figcaption></figure>
 
 3\. 选择合适的服务器及全局模式
 
