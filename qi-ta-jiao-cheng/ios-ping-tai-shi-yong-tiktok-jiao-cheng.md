@@ -42,7 +42,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <figure><img src="https://i.imgtg.com/2022/08/27/ZzYwS.png" alt=""><figcaption></figcaption></figure>
 
-## 连接Shadowrocket，打开TikTok
+## 连接软件，打开TikTok
 
 <figure><img src="https://i.imgtg.com/2022/07/20/rastN.png" alt=""><figcaption></figcaption></figure>
 
