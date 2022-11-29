@@ -8,14 +8,14 @@
 
 [『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/ETdynIJpmrtDgkCe2AuqKekBRn9u5BLJQfB-Z\_yg4t4myA?download=1)并安装TikTok
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_3cf6c7eaf5e84d478215bdb5eaf613bf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raVjC.png" alt=""><figcaption></figcaption></figure>
 
 第一次打开可以选择国家，如选择美国
 
-## 配置Ssr软件
+## 配置软件
 
-<figure><img src="https://yzf.qq.com/fsna/kf-file/kf_pic/20221104/KFPIC_kfh5221fa29cfc019f_h5cded9881fc7d6fdfece5fb364b_WXIMAGE_207379f633b4471891b739424534a904.png" alt=""><figcaption></figcaption></figure>
-
-如果你没有配置ssr，请参照[『Android平台使用教程』](../wiki/android.md)配置好
+如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android.md)配置好
 
 ## 连接Ssr，打开TikTok
+
+<figure><img src="https://i.imgtg.com/2022/07/20/rafWL.png" alt=""><figcaption></figcaption></figure>
