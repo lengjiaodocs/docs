@@ -8,7 +8,7 @@
 * [Win平台使用教程](wiki/win.md)
 * [Mac平台使用教程](wiki/mac.md)
 * [Android平台使用教程](wiki/android.md)
-* [Ios平台/M1平台使用教程](wiki/ios.md)
+* [Ios平台/M1/M2平台使用教程](wiki/ios.md)
 * [Win平台游戏加速教程](wiki/game.md)
 
 ## 其它教程
