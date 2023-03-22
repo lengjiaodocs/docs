@@ -7,13 +7,13 @@
 ## 下载App
 
 * 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)****
-*
 
-    <figure><img src="https://img.lengjiao.me/ios/i0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i0.png" alt=""><figcaption></figcaption></figure>
+
 * **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>
-*
 
-    <figure><img src="https://img.lengjiao.me/ios/i1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i1.png" alt=""><figcaption></figcaption></figure>
+
 * 搜索shadowrocket免费下载安装
 * 下载后换回自己的ID
 
