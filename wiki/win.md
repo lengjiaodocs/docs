@@ -34,7 +34,7 @@
 
 <figure><img src="https://img.lengjiao.me/win/w6.png" alt=""><figcaption></figcaption></figure>
 
-## 进阶配置(不推荐使用)
+## <mark style="color:red;">进阶配置(不推荐使用)</mark>
 
 如果某些网站无法解锁，可以勾选『系统代理模式』—『全局模式』。不推荐使用，因为浪费您的流量
 
