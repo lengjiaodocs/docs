@@ -40,7 +40,7 @@
 
 <figure><img src="https://img.lengjiao.me/win/w7.png" alt=""><figcaption></figcaption></figure>
 
-## 修改DNS(强烈推荐)
+## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
 
