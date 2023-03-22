@@ -7,13 +7,13 @@
 ## 下载App
 
 * 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)****
+*
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raAUc.png" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="https://img.lengjiao.me/ios/i0.png" alt=""><figcaption></figcaption></figure>
 * **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>
+*
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raejq.png" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="https://img.lengjiao.me/ios/i1.png" alt=""><figcaption></figcaption></figure>
 * 搜索shadowrocket免费下载安装
 * 下载后换回自己的ID
 
@@ -25,22 +25,22 @@
 
 1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区— 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raKyr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i2.png" alt=""><figcaption></figcaption></figure>
 
 2.打开APP，粘贴订阅地址
 
-<figure><img src="https://i.imgtg.com/2022/07/20/ra7FY.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i3.png" alt=""><figcaption></figcaption></figure>
 
 3.选择合适服务器，启动连接
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raNRv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i4.png" alt=""><figcaption></figcaption></figure>
 
 4.启用自动更新节点
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raZsM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i5.png" alt=""><figcaption></figcaption></figure>
 
-## 进阶配置(不推荐配置)
+## <mark style="color:red;">进阶配置(不推荐配置)</mark>
 
 如果某些网站或者APP无法解锁，请将全局路由改成代理。不推荐使用，因为浪费您的流量
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rayaG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://img.lengjiao.me/ios/i6.png" alt=""><figcaption></figcaption></figure>
