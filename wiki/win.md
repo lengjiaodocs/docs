@@ -12,19 +12,39 @@
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
+<div align="left">
+
 <figure><img src="https://img.lengjiao.me/win/w1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
 
 <figure><img src="https://img.lengjiao.me/win/w2.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
 2.右键以管理员身份运行软件(360卫士提示，选择全部允许)，粘贴订阅地址
+
+<div align="left">
 
 <figure><img src="https://img.lengjiao.me/win/w3.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="https://img.lengjiao.me/win/w4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3.更新订阅
 
+<div align="left">
+
 <figure><img src="https://img.lengjiao.me/win/w5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 通常情况下会提示  “服务器订阅更新成功"。如未提示，请退出软件，重新以管理员身份运行软件。
@@ -32,19 +52,31 @@
 
 4.选择合适的服务器，选择后您就能愉快的上网啦
 
+<div align="left">
+
 <figure><img src="https://img.lengjiao.me/win/w6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## <mark style="color:red;">进阶配置(不推荐使用)</mark>
 
-如果某些网站无法解锁，可以勾选『系统代理模式』—『全局模式』。不推荐使用，因为浪费您的流量
+如果某些网站无法解锁(如Chatgpt)，可以勾选『系统代理模式』—『全局模式』。不推荐使用，因为浪费您的流量
+
+<div align="left">
 
 <figure><img src="https://img.lengjiao.me/win/w7.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
 
+<div align="left">
+
 <figure><img src="https://img.lengjiao.me/win/w8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 修改dns，可以获得良好的速度体验
