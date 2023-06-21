@@ -12,29 +12,21 @@
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<div align="left">
+<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img.lengjiao.me/win/w1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://img.lengjiao.me/win/w2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
 
 2.右键以管理员身份运行软件(360卫士提示，选择全部允许)，粘贴订阅地址
 
 <div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO97I.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOYcG.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,7 +34,7 @@
 
 <div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOVvM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +46,7 @@
 
 <div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO2uF.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +56,7 @@
 
 <div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO8z6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,7 +66,7 @@
 
 <div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
