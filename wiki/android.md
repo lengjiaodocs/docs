@@ -12,13 +12,25 @@
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区— 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<figure><img src="https://img.lengjiao.me/and/a1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-2.打开APP，<mark style="color:blue;">**再点下软件左上角**</mark>，然后按下面图示方法粘贴订阅地址
+<figure><img src="https://i.imgtg.com/2022/07/20/rahNj.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img.lengjiao.me/and/a2.png" alt=""><figcaption></figcaption></figure>
+</div>
 
-<figure><img src="https://img.lengjiao.me/and/a3.png" alt=""><figcaption></figcaption></figure>
+2.打开APP，<mark style="color:red;">**再点下软件左上角**</mark>，然后按下面图示方法粘贴订阅地址
+
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raFax.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/rakvX.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 注意，如果您的订阅一直显示更新，没有服务器出来。请确认“默认配置文件”和“默认订阅”是否左滑删除
@@ -26,4 +38,8 @@
 
 3.选择合适服务器，启动连接
 
-<figure><img src="https://img.lengjiao.me/and/a4.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raiEp.png" alt=""><figcaption></figcaption></figure>
+
+</div>
