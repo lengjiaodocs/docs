@@ -12,29 +12,45 @@
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<figure><img src="https://img.lengjiao.me/win/w1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-<figure><img src="https://img.lengjiao.me/win/w2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 2\. 打开软件，添加订阅地址
 
-<figure><img src="https://img.lengjiao.me/game/y1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/11/29/48Jic.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3\. 选择合适的服务器及全局模式
 
-<figure><img src="https://img.lengjiao.me/game/y2.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/ratjP.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 4\. 启动连接
 
-<figure><img src="https://img.lengjiao.me/game/y3.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raDWb.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
 
-<figure><img src="https://img.lengjiao.me/win/w8.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
 <figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 修改dns，可以获得良好的速度体验
