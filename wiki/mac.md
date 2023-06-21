@@ -8,7 +8,11 @@
 
 [『点我下载』](https://fastly.jsdelivr.net/gh/ljsupport/leng/LJ.dmg)软件，打开软件，如果提示恶意软件(如下图)：
 
-<figure><img src="https://img.lengjiao.me/mac/m0.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/rOwdB.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * 请在『启动台』-『其他』-『终端』粘贴以下命令，并回车
 
@@ -16,28 +20,54 @@
 sudo spctl --master-disable
 ```
 
-* 输入mac密码(密码不显示)，并回车，再次打开软件即可
+{% hint style="info" %}
+输入mac密码(密码不显示)，并回车，再次打开软件即可
+{% endhint %}
 
 ## 配置软件
 
 &#x20;1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区— 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<figure><img src="https://img.lengjiao.me/mac/m1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-<figure><img src="https://img.lengjiao.me/mac/m2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOCvg.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/rO3Tl.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 2.打开软件，粘贴订阅地址
 
-<figure><img src="https://img.lengjiao.me/mac/m3.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raaNK.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3.更新订阅
 
-<figure><img src="https://img.lengjiao.me/mac/m4.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raOOs.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 4.选择合适的服务器
 
-<figure><img src="https://img.lengjiao.me/mac/m5.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raoEa.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5.打开软件，您就能愉快的上网啦
 
-<figure><img src="https://img.lengjiao.me/mac/m6.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raquS.png" alt=""><figcaption></figcaption></figure>
+
+</div>
