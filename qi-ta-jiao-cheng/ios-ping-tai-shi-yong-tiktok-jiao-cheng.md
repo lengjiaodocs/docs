@@ -18,15 +18,23 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 [Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
 
-3\. 如果你没有配置Shadowrocket，请参照[『Ios平台使用教程』](../wiki/ios.md)配置好
+3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
 
 ## 签名TikTok
 
 打开爱思软件，<mark style="color:red;">**手机必须连接电脑**</mark>，按下图操作(点图片放大看)
 
-<figure><img src="https://img.lengjiao.me/ios_tiktok/2/ios_Tiktok1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-<figure><img src="https://img.lengjiao.me/ios_tiktok/2/ios_Tiktok2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/08/27/Zz6xi.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/08/27/Zzl1N.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 如果签名未成功，请多尝试几次
@@ -36,17 +44,29 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 导入刚刚<mark style="color:red;">**已经签名的TikTok 安装包**</mark>，按下图操作
 
-<figure><img src="https://img.lengjiao.me/ios_tiktok/2/ios_Tiktok4.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/08/27/Zzj8L.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 在设置里面信任刚刚安装的Tiktok(点图片放大看)
 
-<figure><img src="https://img.lengjiao.me/ios_tiktok/2/ios_Tiktok3.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/08/27/ZzYwS.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 连接软件，打开TikTok
 
 打开Tiktok，登录帐号后使用
 
-<figure><img src="https://img.lengjiao.me/ios_tiktok/1/TikTok_ios7.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/rastN.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 <mark style="color:red;">请将下载小火箭的美区ID退出来，然后登录刚才签名的苹果ID(自己的苹果ID)</mark>
@@ -56,7 +76,11 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开Tiktok，登录帐号后切换地区(点图片放大看)
 
-<figure><img src="https://img.lengjiao.me/ios_tiktok/2/ios_Tiktok5.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/08/27/Zz9DC.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 签名有效期
 

@@ -10,7 +10,11 @@
 
 第一次打开可以选择国家，如选择美国
 
-<figure><img src="https://img.lengjiao.me/and_tiktok/TikTok_android1.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2022/07/20/raVjC.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 配置软件
 
@@ -18,6 +22,8 @@
 
 ## 连接软件，打开TikTok
 
-<figure><img src="https://img.lengjiao.me/and_tiktok/TikTok_android2.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
 <figure><img src="https://i.imgtg.com/2022/07/20/rafWL.png" alt=""><figcaption></figcaption></figure>
+
+</div>
