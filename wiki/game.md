@@ -53,5 +53,5 @@
 </div>
 
 {% hint style="info" %}
-修改dns，可以获得良好的速度体验
+<mark style="color:blue;">修改dns，可以获得良好的速度体验</mark>
 {% endhint %}

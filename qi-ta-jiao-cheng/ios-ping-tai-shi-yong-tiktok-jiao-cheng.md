@@ -37,7 +37,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 </div>
 
 {% hint style="info" %}
-如果签名未成功，请多尝试几次
+<mark style="color:blue;">如果签名未成功，请多尝试几次</mark>
 {% endhint %}
 
 ## 安装TikTok
@@ -69,7 +69,11 @@ description: 不拔卡、可登录，无黑屏、可换区
 </div>
 
 {% hint style="info" %}
-<mark style="color:red;">请将下载小火箭的美区ID退出来，然后登录刚才签名的苹果ID(自己的苹果ID)</mark>
+<mark style="color:blue;">请将下载小火箭的美区ID退出来，然后登录刚才签名的苹果ID(自己的苹果ID)</mark>
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">**部分节点无法刷出内容，请更换节点**</mark>
 {% endhint %}
 
 ## 切换TikTok地区

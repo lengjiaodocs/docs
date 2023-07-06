@@ -23,5 +23,9 @@
 </div>
 
 {% hint style="info" %}
-TikTok插件可以设置地区、水印、广告等等
+<mark style="color:blue;">TikTok插件可以设置地区、水印、广告等等</mark>
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">**部分节点无法刷出内容，请更换节点**</mark>
 {% endhint %}

@@ -25,7 +25,7 @@ sudo spctl --master-disable
 ```
 
 {% hint style="info" %}
-输入mac密码(密码不显示)，并回车，再次打开软件即可
+<mark style="color:blue;">输入mac密码(密码不显示)，并回车，再次打开软件即可</mark>
 {% endhint %}
 
 ## 配置软件
