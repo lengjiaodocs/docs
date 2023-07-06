@@ -6,24 +6,22 @@
 
 ## 安装TikTok
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/ETdynIJpmrtDgkCe2AuqKekBRn9u5BLJQfB-Z\_yg4t4myA?download=1)并安装TikTok
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ee4lzB7jHptNkPxYuay9JO0BhLOpQRmc-9l8d9hhLeUu7A?download=1)并安装TikTok
 
-第一次打开可以选择国家，如选择美国
-
-<div align="left">
-
-<figure><img src="https://i.imgtg.com/2022/07/20/raVjC.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EYZziD8iL7RKh0i9d553tqoBjVvkb48FkaAeC7efiMyI7w?download=1)并安装TikTok插件
 
 ## 配置软件
 
 如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android.md)配置好
 
-## 连接软件，打开TikTok
+## 连接软件，打开TikTok插件，运行TikTok
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rafWL.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2023/07/06/Oxmyzp.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+TikTok插件可以设置地区、水印、广告等等
+{% endhint %}
