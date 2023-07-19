@@ -10,13 +10,13 @@
 
 ## 配置软件
 
-1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
+1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
 <figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
 
-2. 打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
+2.打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
 
 <div align="left">
 
