@@ -16,7 +16,7 @@
 
 <figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
 
-2.右键以管理员身份运行软件(360卫士提示，选择全部允许)，粘贴订阅地址
+2. 打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
 
 <div align="left">
 
