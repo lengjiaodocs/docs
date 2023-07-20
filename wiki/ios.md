@@ -47,6 +47,10 @@
 
 </div>
 
+{% hint style="info" %}
+<mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新添加订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
+{% endhint %}
+
 3.选择合适服务器，启动连接
 
 <div align="left">
