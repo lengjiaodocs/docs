@@ -116,3 +116,4 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 因为在苹果app store下载tiktok是官方版本，有sim卡检测和地区检测等等，上面提供的三个版本是去除了这些检测，但是安装的时候必须签名
 
+<table><thead><tr><th width="42">序号</th><th width="166">安装方式</th><th width="67">收费</th><th width="123">系统</th><th width="42">证书</th><th width="97">时效</th></tr></thead><tbody><tr><td>1</td><td>Sideloadly/爱思助手/AltStore/SideStore</td><td>无</td><td>任意</td><td>无</td><td>7天重签一次</td></tr><tr><td>2</td><td>TrollStore巨魔</td><td>无</td><td>iOS14.0-iOS15.4.1<br>iOS15.5 beta1- iOS15.5 beta4<br>iOS15.6 beta1- iOS15.6 beta5</td><td>无</td><td>永久有效</td></tr><tr><td>3</td><td> 轻松签+</td><td>无</td><td>iOS14.0-iOS15.4.1<br>iOS15.5 beta1- iOS15.5 beta4<br>iOS15.6 beta1- iOS15.6 beta5</td><td>无</td><td>永久有效</td></tr><tr><td>4</td><td> 轻松签</td><td>自购证书</td><td>iOS12+</td><td>需要</td><td>证书到期日</td></tr><tr><td>5</td><td>越狱</td><td>无</td><td>任意</td><td>无</td><td>永久有效</td></tr></tbody></table>
