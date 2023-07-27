@@ -18,9 +18,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 [Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
 
-Tiktok V30.5.0 (插件版本，功能多，推荐)
-
-
+[Tiktok V30.5.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EfziWHxHr3lMo-\_eI8chhVgByLRlgprCIWYR6OPaa6cf9w?download=1) (插件版本，功能多，推荐)
 
 3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
 
@@ -98,6 +96,8 @@ Tiktok V30.5.0 (插件版本，功能多，推荐)
 
 ## 关于签名知识
 
+因为苹果单独安装软件需要证书，否则只能在苹果app store下载软件，以下是目前流行的签名方法，有收费和和免费的，免费的7天重签一次
+
 {% hint style="info" %}
 1 苹果ID自签名每7天重签一次，签名工具有：Sideloadly/<mark style="color:red;">爱思助手</mark>/AltStore/SideStore等
 
@@ -112,4 +112,7 @@ Tiktok V30.5.0 (插件版本，功能多，推荐)
 6 免费企业证书，未知时效
 {% endhint %}
 
-以上教程只介绍了利用爱思助手签名安装，其它的可以自己折腾
+问：为什么非要签名方法安装tiktok，不能在苹果app store里面直接下载安装吗？
+
+因为在苹果app store下载tiktok是官方版本，有sim卡检测和地区检测等等，上面提供的三个版本是去除了这些检测，但是安装的时候必须签名
+
