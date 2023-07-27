@@ -12,11 +12,15 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 1\. 电脑[『点我下载』](https://www.i4.cn/pro\_pc.html)并安装爱思软件
 
-2\. 电脑下载TikTok 安装包
+2\. 电脑下载TikTok 安装包，以下任选其一
 
 [Tiktok v24.4.3](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EermZVUsUXBMiGrswcoz6FIBXvwuN88tTXMk47r1Bzn2Uw?download=1) (可切换国家地区)
 
 [Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
+
+Tiktok V30.5.0 (插件版本，功能多，推荐)
+
+
 
 3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
 
@@ -89,5 +93,23 @@ description: 不拔卡、可登录，无黑屏、可换区
 ## 签名有效期
 
 {% hint style="info" %}
-每次签名有效期为7天，到期后，再次签名，然后倒入安装，原tiktok不要卸载，这样可保留原账号数据
+每次签名有效期为7天，到期后，再次签名，然后导入安装，原tiktok不要卸载，这样可保留原账号数据
 {% endhint %}
+
+## 关于签名知识
+
+{% hint style="info" %}
+1 苹果ID自签名每7天重签一次，签名工具有：Sideloadly/<mark style="color:red;">爱思助手</mark>/AltStore/SideStore等
+
+2 自购苹果证书(一般有效期1年) ，常用轻松签等签名软件安装
+
+3 TrollStore巨魔永久安装，有系统要求，支持：iOS14.0 - iOS15.4.1、iOS15.5 beta1- iOS15.5 beta4 和iOS15.6 beta1- iOS15.6 beta5
+
+4 轻松签+，永久安装，和巨魔相同系统要求
+
+5 越狱永久安装
+
+6 免费企业证书，未知时效
+{% endhint %}
+
+以上教程只介绍了利用爱思助手签名安装，其它的可以自己折腾
