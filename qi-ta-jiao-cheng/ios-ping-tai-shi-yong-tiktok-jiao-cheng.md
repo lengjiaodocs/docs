@@ -107,3 +107,13 @@ description: 不拔卡、可登录，无黑屏、可换区
 问：为什么非要签名方法安装tiktok，不能在苹果app store里面直接下载安装吗？
 
 因为在苹果app store下载tiktok是官方版本，有sim卡检测和地区检测等等，上面提供的三个版本是去除了这些检测，但是安装的时候必须签名
+
+## 30.5.0版本插件说明
+
+需登录账户才可使用插件功能，插件设置完成点击左上角Apply，应用Apply重启软件生效，以下是中英文对照表(点图片放大看)
+
+<div align="left">
+
+<figure><img src="https://i.imgtg.com/2023/07/27/OixWNN.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
