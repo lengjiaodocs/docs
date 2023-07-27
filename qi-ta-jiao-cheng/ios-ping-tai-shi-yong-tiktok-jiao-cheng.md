@@ -18,7 +18,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 [Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
 
-[Tiktok V30.5.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EfziWHxHr3lMo-\_eI8chhVgByLRlgprCIWYR6OPaa6cf9w?download=1) (插件版本，功能多，推荐)
+[Tiktok V30.5.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EfziWHxHr3lMo-\_eI8chhVgByLRlgprCIWYR6OPaa6cf9w?download=1) (插件版本，功能多，推荐) [查看插件说明](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#30.5.0-ban-ben-cha-jian-shuo-ming)
 
 3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
 
