@@ -14,17 +14,11 @@
 
 如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android.md)配置好
 
-<div align="left">
-
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2faf7e62a3bb04cda9d0172c5484d9ede.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 ## 连接软件，打开TikTok插件，运行TikTok
 
 <div align="left">
 
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v214c95c6e3c16462d82b4699c09d02948.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2faf7e62a3bb04cda9d0172c5484d9ede.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
