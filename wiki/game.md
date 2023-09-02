@@ -1,6 +1,6 @@
 # Win平台游戏加速教程
 
-## **前言**
+**前言**
 
 您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
 
@@ -14,7 +14,13 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v20367a87dbd3f4b93a4b3f71fe408bb59.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v245bf294819d34edc96740c445bd72423.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +28,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/11/29/48Jic.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2b094f3fc5bc8487ab66075f06e1d6dc8.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,7 +40,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/ratjP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v2d88846db418e44ea9caa412b3eb684ad.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,7 +48,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raDWb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic6.58cdn.com.cn/nowater/webim/big/n_v2cd0d59bd2873418fb26584fae55a084b.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +58,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v210b11337f97b40848d37a3e0fdc5eba4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
