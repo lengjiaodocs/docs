@@ -66,7 +66,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2cfd78291b8274022888a801c1a785b44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2ae5329dbd3ae4db3bb51b7c23b71405a.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -81,6 +81,12 @@ description: 不拔卡、可登录，无黑屏、可换区
 ## 切换TikTok地区
 
 打开Tiktok，登录帐号后切换地区(点图片放大看)
+
+<div align="left">
+
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2cfd78291b8274022888a801c1a785b44.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 签名有效期
 
