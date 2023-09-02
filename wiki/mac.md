@@ -76,6 +76,6 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2df90ca93842e43cfb46b495dc6e58709.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v25f188c07b3584b13b63e37b389c351fc.png" alt=""><figcaption></figcaption></figure>
 
 </div>
