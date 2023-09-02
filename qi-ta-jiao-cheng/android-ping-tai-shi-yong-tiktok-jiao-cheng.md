@@ -14,13 +14,13 @@
 
 如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android.md)配置好
 
-## 连接软件，打开TikTok插件，运行TikTok
-
 <div align="left">
 
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2faf7e62a3bb04cda9d0172c5484d9ede.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f350c490d1e.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+## 连接软件，打开TikTok插件，运行TikTok
 
 {% hint style="info" %}
 <mark style="color:blue;">TikTok插件可以设置地区、水印、广告等等</mark>
