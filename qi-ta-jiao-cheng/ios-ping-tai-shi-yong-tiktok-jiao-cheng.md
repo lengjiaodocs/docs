@@ -28,13 +28,13 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c616b3f3207d4660ba98e959f5468dfb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f3507301b4e.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2ae202b3337f7444dad2081ee1e0c3b0d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f35075f2f38.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v201a545d018d048688a086f90b6ab1985.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f3507e2b491.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2a4e4ca0b741d4e80a3cbee89f2908c02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f3507a4b58b.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2ae5329dbd3ae4db3bb51b7c23b71405a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f3508eb5b26.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -84,7 +84,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2cfd78291b8274022888a801c1a785b44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f35081ecff0.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -100,7 +100,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://pic6.58cdn.com.cn/nowater/webim/big/n_v2bcadad993e3246338f88bc0713ebd0f5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f35084065e1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,12 +114,7 @@ A：因为在苹果app store下载tiktok是官方版本，有sim卡检测和地�
 
 <div align="left">
 
-<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2a8a1666767ea4283a0c0a3b8df3564e1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f35088eed4f.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<div align="left">
-
-<figure><img src="https://i.imgtg.com/2023/07/27/OixWNN.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
