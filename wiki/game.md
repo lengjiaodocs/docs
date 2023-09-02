@@ -50,6 +50,12 @@
 
 打开软件目录下的dns修改，按下图操作
 
+<div align="left">
+
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34dec02fd8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 {% hint style="info" %}
 <mark style="color:blue;">修改dns，可以获得良好的速度体验</mark>
 {% endhint %}
