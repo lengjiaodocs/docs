@@ -12,21 +12,29 @@
 
 1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
-
-2.打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
-
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO97I.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v20367a87dbd3f4b93a4b3f71fe408bb59.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOYcG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v245bf294819d34edc96740c445bd72423.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+2.打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
+
+<div align="left">
+
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v22425e9a6963a46b78f034ac50ad9f8b4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2127f575577164cdcb6d81649d5d63369.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +46,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOVvM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v26019f447aa9a4eb2bf4604f3cc17ad67.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -50,7 +58,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO2uF.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2b251b8edbf9b415fbd4c689d6fdae723.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,19 +66,13 @@
 
 如果某些网站无法解锁(如Chatgpt)，可以勾选『系统代理模式』—『全局模式』。不推荐使用，因为浪费您的流量
 
-<div align="left">
-
-<figure><img src="https://i.imgtg.com/2022/07/20/rO8z6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v210b11337f97b40848d37a3e0fdc5eba4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
