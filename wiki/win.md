@@ -14,13 +14,13 @@
 
 <div align="left">
 
-<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v20367a87dbd3f4b93a4b3f71fe408bb59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34cbb46578.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v245bf294819d34edc96740c445bd72423.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34dd89e802.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,13 +28,13 @@
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v22425e9a6963a46b78f034ac50ad9f8b4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ddd4066d.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2127f575577164cdcb6d81649d5d63369.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ddfe283c.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v26019f447aa9a4eb2bf4604f3cc17ad67.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34de283e7e.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2b251b8edbf9b415fbd4c689d6fdae723.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34de5b0a35.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,13 +68,19 @@
 
 <div align="left">
 
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v210b11337f97b40848d37a3e0fdc5eba4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34de8de4c4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
+
+<div align="left">
+
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34dec02fd8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 <mark style="color:blue;">修改dns，可以获得良好的速度体验</mark>
