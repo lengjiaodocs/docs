@@ -56,12 +56,6 @@
 
 打开软件目录下的dns修改，按下图操作
 
-<div align="left">
-
-<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v210b11337f97b40848d37a3e0fdc5eba4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 {% hint style="info" %}
 <mark style="color:blue;">修改dns，可以获得良好的速度体验</mark>
 {% endhint %}
