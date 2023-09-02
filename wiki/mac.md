@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2c7acd71f76dc4d73b7df3d67770454e4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic4.58cdn.com.cn/nowater/webim/big/n_v2dda7d6c7afe9432cadc74874c2f52c45.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -73,8 +73,6 @@ sudo spctl --master-disable
 </div>
 
 5.打开软件，您就能愉快的上网啦
-
-
 
 <div align="left">
 
