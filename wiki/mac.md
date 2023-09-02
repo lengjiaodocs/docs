@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOwdB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2c7acd71f76dc4d73b7df3d67770454e4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,13 +34,13 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOCvg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://alumninpustedutw-my.sharepoint.com/personal/empty_alumni_npust_edu_tw/Documents/lengjiaoimg/m1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO3Tl.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic7.58cdn.com.cn/nowater/webim/big/n_v242d381269fc141c9ada5966b1d61f0ea.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raaNK.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v2efff4e6a172845dcaf1337ca162eb1ea.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raOOs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic7.58cdn.com.cn/nowater/webim/big/n_v26ac447822e8f4da7a054b71680022df1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,14 +68,16 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raoEa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://alumninpustedutw-my.sharepoint.com/personal/empty_alumni_npust_edu_tw/Documents/lengjiaoimg/m5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 5.打开软件，您就能愉快的上网啦
 
+
+
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raquS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2df90ca93842e43cfb46b495dc6e58709.png" alt=""><figcaption></figcaption></figure>
 
 </div>
