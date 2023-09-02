@@ -14,13 +14,13 @@
 
 <div align="left">
 
-<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v20367a87dbd3f4b93a4b3f71fe408bb59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34cbb46578.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v245bf294819d34edc96740c445bd72423.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34dd89e802.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2b094f3fc5bc8487ab66075f06e1d6dc8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f350f16838e.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,17 +40,11 @@
 
 <div align="left">
 
-<figure><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v2d88846db418e44ea9caa412b3eb684ad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f350f7884d5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 4\. 启动连接
-
-<div align="left">
-
-<figure><img src="https://pic6.58cdn.com.cn/nowater/webim/big/n_v2cd0d59bd2873418fb26584fae55a084b.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
