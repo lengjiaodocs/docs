@@ -4,7 +4,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 # Ios平台使用TikTok教程
 
-## **前言**
+**前言**
 
 您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
 
@@ -28,13 +28,13 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zz6xi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2c616b3f3207d4660ba98e959f5468dfb.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zzl1N.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic8.58cdn.com.cn/nowater/webim/big/n_v2ae202b3337f7444dad2081ee1e0c3b0d.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zzj8L.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v201a545d018d048688a086f90b6ab1985.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/ZzYwS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2a4e4ca0b741d4e80a3cbee89f2908c02.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rastN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v2cfd78291b8274022888a801c1a785b44.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -82,12 +82,6 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开Tiktok，登录帐号后切换地区(点图片放大看)
 
-<div align="left">
-
-<figure><img src="https://i.imgtg.com/2022/08/27/Zz9DC.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 ## 签名有效期
 
 {% hint style="info" %}
@@ -100,7 +94,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2023/07/27/OixBda.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic6.58cdn.com.cn/nowater/webim/big/n_v2bcadad993e3246338f88bc0713ebd0f5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -111,6 +105,12 @@ A：因为在苹果app store下载tiktok是官方版本，有sim卡检测和地�
 ## 30.5.0版本插件说明
 
 需登录账户才可使用插件功能，插件设置完成点击左上角Apply，应用Apply重启软件生效，以下是中英文对照表(点图片放大看)
+
+<div align="left">
+
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v2a8a1666767ea4283a0c0a3b8df3564e1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <div align="left">
 
