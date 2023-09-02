@@ -10,7 +10,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raAUc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic6.58cdn.com.cn/nowater/webim/big/n_v2d065e432114c436094f673b8a8750286.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raejq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v2acb3991a57bb48dea032d99e8120e1f4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raKyr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v286ddecc9283d463fa1b990e87d7c2784.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/ra7FY.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://alumninpustedutw-my.sharepoint.com/personal/empty_alumni_npust_edu_tw/Documents/lengjiaoimg/i3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raNRv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v234a87fea6a9b4514bbca42a133d36227.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raZsM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v2f962128426704b0d865669694507bf3e.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -73,6 +73,6 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rayaG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic5.58cdn.com.cn/nowater/webim/big/n_v200b7f9a547dc498ebff7ebc4123744fe.png" alt=""><figcaption></figcaption></figure>
 
 </div>
