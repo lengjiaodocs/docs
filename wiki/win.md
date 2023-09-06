@@ -14,13 +14,13 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34cbb46578.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34dd89e802.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,15 +28,11 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ddd4066d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO97I.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<div align="left">
-
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ddfe283c.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOYcG.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新添加订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
@@ -46,7 +42,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34de283e7e.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOVvM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -58,7 +54,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34de5b0a35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO2uF.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,7 +64,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34de8de4c4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO8z6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +74,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34dec02fd8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
