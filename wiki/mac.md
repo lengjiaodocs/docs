@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34f9fe4efb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOwdB.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,13 +34,13 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fa3c38cf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOCvg.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fa7ad6ef.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rO3Tl.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34faddd544.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raaNK.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fb17a464.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raOOs.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,7 +68,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fb5c363a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raoEa.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,6 +76,6 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fb7f00d7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raquS.png" alt=""><figcaption></figcaption></figure>
 
 </div>
