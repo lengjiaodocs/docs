@@ -8,17 +8,13 @@
 
 * 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 
-<div align="left">
-
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fe5cfd6c.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="https://i.imgtg.com/2022/07/20/raAUc.png" alt=""><figcaption></figcaption></figure>
 
 * **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>** (务必选择此项)**
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fe8dbb65.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raejq.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,7 +31,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fed63f9f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raKyr.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -43,7 +39,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fefc5a1f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/ra7FY.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -55,7 +51,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ff216d15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raNRv.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -63,7 +59,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ff49df24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raZsM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -73,6 +69,6 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ff7af5c0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rayaG.png" alt=""><figcaption></figcaption></figure>
 
 </div>
