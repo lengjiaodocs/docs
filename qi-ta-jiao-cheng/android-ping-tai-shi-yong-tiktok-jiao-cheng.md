@@ -16,7 +16,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f350c490d1e.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2023/07/06/Oxmyzp.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

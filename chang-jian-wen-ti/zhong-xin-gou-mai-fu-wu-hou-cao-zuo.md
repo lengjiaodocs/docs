@@ -10,7 +10,7 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34df54ddcf.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rOu9b.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -20,7 +20,7 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34fc20a539.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/raBFN.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f34ffa884fc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/rage1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,6 +40,6 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 <div align="left">
 
-<figure><img src="https://pic.sl.al/gdrive/pic/2023-09-02/64f350501a5e7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgtg.com/2022/07/20/ranIU.png" alt=""><figcaption></figcaption></figure>
 
 </div>
