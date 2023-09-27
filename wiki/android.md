@@ -6,7 +6,7 @@
 
 ## 下载APP
 
-[『点我下载』](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/Client/LJ.apk)并安装App
+[『点我下载』](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/Client/LJ-1.apk)并安装App
 
 ## 配置APP
 
