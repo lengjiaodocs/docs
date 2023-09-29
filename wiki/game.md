@@ -1,6 +1,6 @@
 # Win平台游戏加速教程
 
-**前言**
+## 前言
 
 您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
 
