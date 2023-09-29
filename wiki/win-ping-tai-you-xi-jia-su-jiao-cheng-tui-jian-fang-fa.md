@@ -12,7 +12,7 @@
 
 ## 软件环境
 
-第一次使用请务必先安装 .NET 6.0 运行库，[『点我下载』](https://aka.ms/dotnet/6.0/windowsdesktop-runtime-win-x64.exe)
+第一次使用请务必先安装 .NET 6.0 运行库，[『点我下载』](https://aka.ms/dotnet/6.0/windowsdesktop-runtime-win-x64.exe)并安装
 
 ## 配置软件
 
