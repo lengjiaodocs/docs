@@ -39,7 +39,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 </div>
 
 {% hint style="info" %}
-<mark style="color:blue;">如果签名未成功，请多尝试几次</mark>
+<mark style="color:blue;">如果签名未成功，请多尝试几次，也可以登录美区ID尝试签名</mark>
 {% endhint %}
 
 ## 安装TikTok
@@ -59,6 +59,10 @@ description: 不拔卡、可登录，无黑屏、可换区
 <figure><img src="https://i.imgtg.com/2022/08/27/ZzYwS.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+## 开启开发者模式
+
+设置 - 隐私与安全性 - 拉到底部 - 打开开发者模式 - 重启手机
 
 ## 连接软件，打开TikTok
 
