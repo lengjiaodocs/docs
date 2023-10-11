@@ -66,6 +66,8 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 ## 连接软件，打开TikTok
 
+如果你没有配置软件，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
+
 打开Tiktok，登录帐号后使用
 
 <div align="left">
