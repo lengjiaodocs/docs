@@ -94,5 +94,5 @@
 * <mark style="color:blue;">鼠标右键选中软件</mark><mark style="color:blue;">**以管理员身份运行软件**</mark><mark style="color:blue;">试试</mark>
 * <mark style="color:blue;">直接运行软件试试</mark>
 * 如果浏览器安装插件，暂停所有插件试试
-* 退出360安全卫士，重新运行软件试试
+* 退出安全软件(360、联想管家等等)，重新运行软件试试
 * 按教程修改DNS，重启电脑试试
