@@ -123,3 +123,13 @@ A：因为在苹果app store下载tiktok是官方版本，有sim卡检测和地�
 <figure><img src="https://i.imgtg.com/2023/07/27/OixWNN.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+## 签名失败解决办法
+
+1 安装iTunes(可通过爱思助手工具箱安装)，打开iTunes，登录ID，选择账户，对电脑授权，然后重新签名即可
+
+<div align="left">
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+</div>
