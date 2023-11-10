@@ -39,7 +39,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 </div>
 
 {% hint style="info" %}
-<mark style="color:blue;">如果签名未成功，请多尝试几次，也可以登录美区ID尝试签名</mark>
+<mark style="color:blue;">如果签名未成功，</mark>[点我查看](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#qian-ming-shi-bai-jie-jue-ban-fa)
 {% endhint %}
 
 ## 安装TikTok
@@ -130,6 +130,8 @@ A：因为在苹果app store下载tiktok是官方版本，有sim卡检测和地�
 
 <div align="left">
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://ooo.0x0.ooo/2023/11/10/Oe11Mi.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+2 如果还失败，登录美区ID尝试签名
