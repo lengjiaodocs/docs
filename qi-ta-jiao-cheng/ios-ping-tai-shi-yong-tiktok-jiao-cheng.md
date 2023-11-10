@@ -39,7 +39,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 </div>
 
 {% hint style="info" %}
-<mark style="color:blue;">如果签名未成功，</mark>[点我查看](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#qian-ming-shi-bai-jie-jue-ban-fa)
+<mark style="color:blue;">如果签名未成功，</mark>[『点我查看』](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#qian-ming-shi-bai-jie-jue-ban-fa)
 {% endhint %}
 
 ## 安装TikTok
