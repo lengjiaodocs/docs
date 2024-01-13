@@ -8,13 +8,17 @@
 
 * 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raAUc.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd1255.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>** (务必选择此项)**
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raejq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd132c.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -31,7 +35,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raKyr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd140a.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -39,7 +43,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/ra7FY.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b90a871b83018acd1527.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -51,7 +55,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raNRv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b93e871b83018acdf1a7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -59,7 +63,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raZsM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b93f871b83018acdf2d3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -69,6 +73,6 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rayaG.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b93f871b83018acdf399.png" alt=""><figcaption></figcaption></figure>
 
 </div>
