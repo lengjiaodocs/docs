@@ -10,7 +10,7 @@ description: 通常情况下，按教程设置后会自动更新节点，如没�
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOXPP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45e34.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ description: 通常情况下，按教程设置后会自动更新节点，如没�
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raTPC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba51871b83018ad26db1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ description: 通常情况下，按教程设置后会自动更新节点，如没�
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/ramEI.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b93f871b83018acdf411.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,4 +38,8 @@ description: 通常情况下，按教程设置后会自动更新节点，如没�
 
 进入节点选择的页面，然后按图操作：
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raxdt.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="https://pic.imgdb.cn/item/65a2b75a871b83018ac614a5.png" alt=""><figcaption></figcaption></figure>
+
+</div>

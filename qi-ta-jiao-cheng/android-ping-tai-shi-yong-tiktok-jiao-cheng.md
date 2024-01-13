@@ -16,7 +16,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2023/07/06/Oxmyzp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b7c2871b83018ac7bcfe.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
