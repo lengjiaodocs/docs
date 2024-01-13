@@ -28,13 +28,13 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zz6xi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b97c871b83018acef272.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zzl1N.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.superbed.cn/images/65a2b97c871b83018acef335.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zzj8L.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b97d871b83018acef540.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/ZzYwS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b97c871b83018acef425.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,7 +72,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rastN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a9b5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -90,7 +90,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/08/27/Zz9DC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b97d871b83018acef64d.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2023/07/27/OixBda.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b9e5871b83018ad0a7fd.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -120,18 +120,12 @@ A：因为在苹果app store下载tiktok是官方版本，有sim卡检测和地�
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2023/07/27/OixWNN.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a8eb.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ## 签名失败解决办法
 
 1 安装iTunes(可通过爱思助手工具箱安装)，打开iTunes，登录ID，选择账户，对电脑授权，然后重新签名即可
-
-<div align="left">
-
-<figure><img src="https://ooo.0x0.ooo/2023/11/10/Oe11Mi.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 2 如果还失败，登录美区ID尝试签名
