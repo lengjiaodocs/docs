@@ -14,13 +14,13 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOjLD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOlO1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad402dd.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/11/29/48Jic.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba64c.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/ratjP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba70b.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,19 +48,13 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raDWb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba77d.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
-
-<div align="left">
-
-<figure><img src="https://i.imgtg.com/2022/09/11/yOvbD.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 {% hint style="info" %}
 <mark style="color:blue;">修改dns，可以获得良好的速度体验</mark>
