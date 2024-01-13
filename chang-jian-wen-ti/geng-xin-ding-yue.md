@@ -10,7 +10,7 @@ description: 通常情况下，按教程设置后会自动更新节点，如没�
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45e34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.superbed.cn/images/65a2bc24871b83018ad9ea28.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

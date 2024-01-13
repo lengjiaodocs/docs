@@ -8,11 +8,7 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 删除后，参考[**Win平台使用教程**](../wiki/win.md#pei-zhi-ruan-jian)配置(点图片放大看)
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b764871b83018ac639a9.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45e34.png" alt=""><figcaption></figcaption></figure>
 
 ## Mac平台删除订阅和服务器
 
