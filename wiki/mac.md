@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOwdB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a729.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,13 +34,13 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rOCvg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a7ea.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/rO3Tl.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a874.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raaNK.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a925.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raOOs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a996.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,7 +68,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raoEa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba50871b83018ad26b95.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,6 +76,6 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://i.imgtg.com/2022/07/20/raquS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65a2ba50871b83018ad26c27.png" alt=""><figcaption></figcaption></figure>
 
 </div>
