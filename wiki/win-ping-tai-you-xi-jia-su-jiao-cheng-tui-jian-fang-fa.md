@@ -6,9 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/ax0y39hi2xwl/b/LJClient/o/Netch\_Win7.zip)Win7的版本并解压软件
-
-[『点我下载』](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/ax0y39hi2xwl/b/LJClient/o/Netch\_Win10.zip)Win10的版本并解压软件
+『点我下载』 并解压软件
 
 ## 软件环境
 
