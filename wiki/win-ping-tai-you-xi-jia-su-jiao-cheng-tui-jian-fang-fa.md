@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-『点我下载』 并解压软件
+[『点我下载』 ](https://objectstorage.ap-seoul-1.oraclecloud.com/n/cnocig6arwxm/b/bucket-20231223-0132/o/LjClient\_ssr/Netch\_Win10.zip)并解压软件
 
 ## 软件环境
 
