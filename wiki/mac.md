@@ -10,11 +10,11 @@
 
 ## 下载软件
 
-[『点我下载』](https://fastly.jsdelivr.net/gh/ljsupport/leng/LJ.dmg)软件，打开软件，如果提示恶意软件(如下图)：
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EfmCZI32Ij5Do9bQEEuhEAkBArVYdMC8hMCOJYjZsF8xog?download=1)软件，打开软件，如果提示恶意软件(如下图)：
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a729.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65e098cb9f345e8d03cb62af.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -48,7 +48,13 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a925.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65e092489f345e8d03b35aad.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="https://pic.imgdb.cn/item/65e092489f345e8d03b35bc4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +66,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2ba22871b83018ad1a996.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65e0926d9f345e8d03b3dfdd.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,7 +74,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2ba50871b83018ad26b95.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65e0926d9f345e8d03b3e0af.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,6 +82,6 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2ba50871b83018ad26c27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65e0926d9f345e8d03b3e125.png" alt=""><figcaption></figcaption></figure>
 
 </div>
