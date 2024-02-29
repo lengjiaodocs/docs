@@ -78,6 +78,10 @@ sudo spctl --master-disable
 
 </div>
 
+{% hint style="info" %}
+<mark style="color:blue;">每次重新打开软件后，务必再次选择节点</mark>
+{% endhint %}
+
 5.打开软件，您就能愉快的上网啦
 
 <div align="left">
@@ -85,3 +89,7 @@ sudo spctl --master-disable
 <figure><img src="https://pic.imgdb.cn/item/65e0926d9f345e8d03b3e125.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+<mark style="color:blue;">每次退出软件后，务必再次启动开关</mark>
+{% endhint %}
