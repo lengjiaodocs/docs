@@ -91,5 +91,5 @@ sudo spctl --master-disable
 </div>
 
 {% hint style="info" %}
-<mark style="color:blue;">每次退出软件后，务必再次启动开关</mark>
+<mark style="color:blue;">每次重新打开软件后，务必再次启动开关</mark>
 {% endhint %}
