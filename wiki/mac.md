@@ -54,7 +54,7 @@ sudo spctl --master-disable
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65e092489f345e8d03b35bc4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/65e2875f9f345e8d030d7795.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

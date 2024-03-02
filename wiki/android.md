@@ -47,3 +47,11 @@
 <figure><img src="https://pic.imgdb.cn/item/65a2b75a871b83018ac61317.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+## 常见故障
+
+配置好后，如果使用不了，请排除以下
+
+* 更换节点试试
+* 换个浏览器，建议Chrome浏览器，不要使用安卓自带的浏览器
+* 重启手机试试
