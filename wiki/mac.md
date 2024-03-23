@@ -44,7 +44,7 @@ sudo spctl --master-disable
 
 </div>
 
-2.打开软件，粘贴订阅地址
+2.打开软件后，<mark style="color:red;">鼠标左键</mark>点<mark style="color:red;">屏幕右上角</mark>软件图标，粘贴订阅地址
 
 <div align="left">
 
