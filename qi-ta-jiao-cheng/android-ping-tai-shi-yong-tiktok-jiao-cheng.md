@@ -6,9 +6,9 @@
 
 ## 安装TikTok
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ee4lzB7jHptNkPxYuay9JO0BhLOpQRmc-9l8d9hhLeUu7A?download=1)并安装TikTok
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EUfSDUIbd-FJjzzYlMUVvi8Bz2tBEBQIHKiRxMzC34hE-g?download=1)并安装TikTok
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EYZziD8iL7RKh0i9d553tqoBjVvkb48FkaAeC7efiMyI7w?download=1)并安装TikTok插件
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EQehsEMP-FxLt0atZf4RUNoB\_vsLjoEqj7rzXxdnOGHQuw?download=1)并安装TikTok插件
 
 ## 配置软件
 
