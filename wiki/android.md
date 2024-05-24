@@ -6,7 +6,9 @@
 
 ## 下载APP
 
-[『点我下载』](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/Client/LJ-1.apk)并安装App
+[『点我下载』](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/Client/LJ-1.apk)并安装32位App
+
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EWuKCHhp2CZFnqsU-vqgNp8B\_XysKLHj2etv6o1ujlClPQ?download=1)并安装64位App(推荐)
 
 ## 配置APP
 
