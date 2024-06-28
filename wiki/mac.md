@@ -6,7 +6,7 @@
 
 
 
-如果你的<mark style="color:red;">Mac型号</mark>是<mark style="color:red;">M1</mark>或者<mark style="color:red;">M2</mark>，强烈建议参照 [**Ios/M1/M2平台使用教程**](ios.md) 配置，更加稳定
+如果你的<mark style="color:red;">Mac型号</mark>是<mark style="color:red;">M1</mark>或者<mark style="color:red;">M2</mark>，强烈建议参照 [**Ios/M1/M2/M3平台使用教程**](ios.md) 配置，更加稳定
 
 ## 下载软件
 
