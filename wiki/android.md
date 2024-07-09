@@ -1,14 +1,12 @@
 # Android平台使用教程
 
-## 前言
+前言
 
 您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
 
 ## 下载APP
 
-[『点我下载』](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/Client/LJ-1.apk)并安装32位App
-
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EWuKCHhp2CZFnqsU-vqgNp8B\_XysKLHj2etv6o1ujlClPQ?download=1)并安装64位App(推荐)
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EfnRltFbZ3ZHivSPCqBQjkcBGmGsRZcC-JCfGBkRLCQQYg?download=1)并安装App
 
 ## 配置APP
 
@@ -24,13 +22,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2b759871b83018ac610b7.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b759871b83018ac611d3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/668d4df5d9c307b7e97b701d.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +38,7 @@
 
 <div align="left">
 
-<figure><img src="https://pic.imgdb.cn/item/65a2b75a871b83018ac61317.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://pic.imgdb.cn/item/668d4df5d9c307b7e97b7046.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
