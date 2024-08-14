@@ -38,6 +38,10 @@
 
 </div>
 
+{% hint style="info" %}
+请不要低于1440分钟，否则影响手机性能
+{% endhint %}
+
 4.设置路由
 
 <div align="left">
