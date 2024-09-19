@@ -58,13 +58,17 @@
 
 </div>
 
-4.建议每天使用之前，手动更新订阅地址，每天更新一次即可，不要频繁更新
+## 更新订阅
 
 <div align="left">
 
 <figure><img src="https://pic.imgdb.cn/item/66bcedaed9c307b7e94b3a9a.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+建议每天使用之前，手动更新订阅地址，每天更新一次即可，不要频繁更新
+{% endhint %}
 
 ## 常见故障
 
