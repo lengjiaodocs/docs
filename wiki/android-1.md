@@ -8,6 +8,10 @@
 
 [『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EWhJO2TIWS5Avv07PIaif50BJFSUFr6JVeFx1oU7JeN-vw?download=1)并安装App
 
+{% hint style="info" %}
+<mark style="color:blue;">下载后，如无法安装，请更换浏览器下载，建议火狐或者Chrome浏览器</mark>
+{% endhint %}
+
 ## 配置APP
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区— 点开『已激活的产品/服务』— 点击『节点订阅』
