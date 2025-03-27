@@ -6,31 +6,19 @@
 
 ## 下载软件
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EeXO\_X-OUzpLjl20ClC6cBoBsmOEpGE4dSYYPAokAGLDSQ?download=1)软件后并安装软件
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERbWBN4E1BJNrVdHq8AmV2oBCmposlcnfUcb9IHXistspA?download=1)软件后并安装软件
 
 ## 配置软件
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<div align="left">
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad402dd.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad402dd.png" alt=""><figcaption></figcaption></figure></div>
 
 2\. 打开软件，添加订阅地址
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba64c.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba64c.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 <mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新添加订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
@@ -38,19 +26,11 @@
 
 3\. 选择合适的服务器及全局模式
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba70b.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba70b.png" alt=""><figcaption></figcaption></figure></div>
 
 4\. 启动连接
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba77d.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b8b2871b83018acba77d.png" alt=""><figcaption></figcaption></figure></div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 

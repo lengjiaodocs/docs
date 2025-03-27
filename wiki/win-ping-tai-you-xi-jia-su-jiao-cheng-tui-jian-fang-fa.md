@@ -1,4 +1,4 @@
-# Win平台游戏加速教程(推荐方法)
+# Win平台游戏加速教程-推荐方法
 
 ## 前言
 
@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』 ](https://objectstorage.ap-seoul-1.oraclecloud.com/n/cnocig6arwxm/b/bucket-20231223-0132/o/LjClient\_ssr/Netch\_Win10.zip)并解压软件
+[『点我下载』 ](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EcGkkufZ5llDg1f0xh40LUQB2WGOjdpA49Tw2ltVRca2WQ?download=1)并解压软件
 
 ## 软件环境
 
@@ -16,46 +16,22 @@
 
 1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
-<div align="left">
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad402dd.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad402dd.png" alt=""><figcaption></figcaption></figure></div>
 
 2\. 打开软件，添加订阅地址
 
-<div align="left">
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2ba78871b83018ad30ce0.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://pic.imgdb.cn/item/65a2ba78871b83018ad30ce0.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2ba79871b83018ad30da0.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2ba79871b83018ad30da0.png" alt=""><figcaption></figcaption></figure></div>
 
 3\. 选择合适的服务器及绕过局域网和中国模式，启动连接
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2ba79871b83018ad30e29.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2ba79871b83018ad30e29.png" alt=""><figcaption></figcaption></figure></div>
 
 ## <mark style="color:red;">修改DNS(强烈推荐)</mark>
 
 打开软件目录下的dns修改，按下图操作
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45c93.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45c93.png" alt=""><figcaption></figcaption></figure></div>
