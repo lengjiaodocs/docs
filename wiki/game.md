@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERbWBN4E1BJNrVdHq8AmV2oBCmposlcnfUcb9IHXistspA?download=1)软件后并安装软件
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EVxrT-_CychGsUvMLB4MMdABAlDhpTIbW8PbM9Vd1zL2fQ?download=1)软件后并安装软件
 
 ## 配置软件
 
