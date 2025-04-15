@@ -31,8 +31,9 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开Shadowrocket - 配置 - 点右上 + 号，将下面tk配置地址粘贴进去
 
-<pre><code><strong>https://itiktok.best/TikTok-Rule.conf
-</strong></code></pre>
+```
+https://www.now61.com/f/prW6sP/TikTok-Rule.conf
+```
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
 
