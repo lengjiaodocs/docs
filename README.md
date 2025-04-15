@@ -6,7 +6,7 @@
 * 严禁在任何地方公开节点信息，发现者一律删号并不退款
 * 严禁下载BT、盗版、群发垃圾邮件、扫描、政治行为
 * [Win教程](wiki/win.md)   [Mac教程](wiki/mac.md)   [Android教程](wiki/android.md)   [Ios/M1/M2教程](wiki/ios.md)   [Win游戏加速教程](wiki/game.md)
-* [Tiktok(Ios)教程](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)   [Tiktok(Android)教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
+* [Tiktok(Ios)教程](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4.md)   [Tiktok(Android)教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
 
 
 

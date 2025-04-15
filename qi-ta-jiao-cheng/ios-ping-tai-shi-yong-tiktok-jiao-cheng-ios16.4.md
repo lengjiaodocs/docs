@@ -2,7 +2,7 @@
 description: 不拔卡、可登录，无黑屏、可换区
 ---
 
-# Ios平台使用TikTok教程
+# Ios平台使用TikTok教程(IOS≤16.4)
 
 **前言**
 
@@ -10,15 +10,15 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 ## 准备工作
 
-1\. 电脑[『点我下载』](https://www.i4.cn/pro\_pc.html)并安装爱思软件
+1\. 电脑[『点我下载』](https://www.i4.cn/pro_pc.html)并安装爱思软件
 
 2\. 电脑下载TikTok 安装包，以下任选其一
 
-[Tiktok v24.4.3](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EermZVUsUXBMiGrswcoz6FIBXvwuN88tTXMk47r1Bzn2Uw?download=1) (可切换国家地区)
+[Tiktok v24.4.3](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EermZVUsUXBMiGrswcoz6FIBXvwuN88tTXMk47r1Bzn2Uw?download=1) (可切换国家地区)
 
-[Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
+[Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
 
-[Tiktok V30.5.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty\_alumni\_npust\_edu\_tw/EfziWHxHr3lMo-\_eI8chhVgByLRlgprCIWYR6OPaa6cf9w?download=1) (插件版本，功能多，推荐) [查看插件说明](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#30.5.0-ban-ben-cha-jian-shuo-ming)
+[Tiktok V30.5.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfziWHxHr3lMo-_eI8chhVgByLRlgprCIWYR6OPaa6cf9w?download=1) (插件版本，功能多，推荐) [查看插件说明](ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4.md#30.5.0-ban-ben-cha-jian-shuo-ming)
 
 3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
 
@@ -26,39 +26,23 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开爱思软件，<mark style="color:red;">**手机必须连接电脑**</mark>，按下图操作(点图片放大看)
 
-<div align="left">
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b97c871b83018acef272.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://pic.imgdb.cn/item/65a2b97c871b83018acef272.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://files.superbed.cn/images/65a2b97c871b83018acef335.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://files.superbed.cn/images/65a2b97c871b83018acef335.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-<mark style="color:blue;">如果签名失败，</mark>[『点我查看』](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#qian-ming-shi-bai-jie-jue-ban-fa)
+<mark style="color:blue;">如果签名失败，</mark>[『点我查看』](ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4.md#qian-ming-shi-bai-jie-jue-ban-fa)
 {% endhint %}
 
 ## 安装TikTok
 
 导入刚刚<mark style="color:red;">**已经签名的TikTok 安装包**</mark>，按下图操作
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b97d871b83018acef540.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b97d871b83018acef540.png" alt=""><figcaption></figcaption></figure></div>
 
 在设置里面信任刚刚安装的Tiktok(点图片放大看)
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b97c871b83018acef425.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b97c871b83018acef425.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 开启开发者模式
 
@@ -70,11 +54,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开Tiktok，登录帐号后使用
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a9b5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a9b5.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 <mark style="color:blue;">请将下载小火箭的美区ID退出来，然后登录刚才签名的苹果ID(自己的苹果ID)</mark>
@@ -88,11 +68,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 打开Tiktok，登录帐号后切换地区(点图片放大看)
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b97d871b83018acef64d.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b97d871b83018acef64d.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 签名有效期
 
@@ -104,11 +80,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 因为苹果单独安装软件需要签名证书，否则只能在苹果app store下载软件，以下是目前流行的签名方法:
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b9e5871b83018ad0a7fd.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b9e5871b83018ad0a7fd.png" alt=""><figcaption></figcaption></figure></div>
 
 Q：为什么非要签名方法安装tiktok，不能在苹果app store里面直接下载安装吗？
 
@@ -118,11 +90,7 @@ A：因为在苹果app store下载tiktok是官方版本，有sim卡检测和地�
 
 需登录账户才可使用插件功能，插件设置完成点击左上角Apply，应用Apply重启软件生效，以下是中英文对照表(点图片放大看)
 
-<div align="left">
-
-<figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a8eb.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a8eb.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## 签名失败解决办法
 
