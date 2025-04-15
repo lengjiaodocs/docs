@@ -8,10 +8,10 @@
 * [Win平台使用教程](wiki/win.md)
 * [Mac平台使用教程](wiki/mac.md)
 * [Android平台使用教程](wiki/android.md)
-* [Android平台使用教程-推荐方法](wiki/android-1.md)
+* [Android平台使用教程-推荐](wiki/android-1.md)
 * [Ios/M1/M2/M3平台使用教程](wiki/ios.md)
 * [Win平台游戏加速教程](wiki/game.md)
-* [Win平台游戏加速教程-推荐方法](wiki/win-ping-tai-you-xi-jia-su-jiao-cheng-tui-jian-fang-fa.md)
+* [Win平台游戏加速教程-推荐](wiki/win-ping-tai-you-xi-jia-su-jiao-cheng-tui-jian.md)
 
 ## 其它教程
 
