@@ -27,11 +27,16 @@ description: 不拔卡、可登录，无黑屏、可换区
 * 搜索tiktok下载安装
 * 下载后换回自己的ID
 
-## 连接软件，打开TikTok
+## 添加tiktok配置，连接软件，打开TikTok
 
-如果你没有配置软件，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好，然后添加tiktok配置
+添加tiktok配置
+
+打开Shadowrocket - 配置 - 点右上 + 号
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
+
+<pre><code><strong>https://itiktok.best/TikTok-Rule.conf
+</strong></code></pre>
 
 打开Tiktok，登录帐号后使用
 
