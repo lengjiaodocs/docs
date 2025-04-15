@@ -10,7 +10,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ETn_17K6-MlFoJTNFvjC-H0B9ZcAwXaG-cO6k2sMe7k7FQ?download=1)软件，打开软件，如果提示恶意软件(如下图)：
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/Ef9oLbJa45NIqlAXVNHN_KYBpvtZRC8i427m1HhtvrGqjw?download=1)软件，打开软件，如果提示恶意软件(如下图)：
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65e098cb9f345e8d03cb62af.png" alt=""><figcaption></figcaption></figure></div>
 

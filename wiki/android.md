@@ -14,7 +14,7 @@
 
 ## 配置APP
 
-1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区— 点开『已激活的产品/服务』— 点击『节点订阅』
+1\. [『点我登录』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EUTMm5LIEBlNor4KZxaST9MBuqXHKRpcyVAV5QYCE4IpAA?download=1)客户区— 点开『已激活的产品/服务』— 点击『节点订阅』
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b759871b83018ac60f48.png" alt=""><figcaption></figcaption></figure></div>
 
