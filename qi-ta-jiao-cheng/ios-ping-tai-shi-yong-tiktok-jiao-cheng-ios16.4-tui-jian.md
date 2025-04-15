@@ -31,14 +31,12 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 添加tiktok配置
 
-打开Shadowrocket - 配置 - 点右上 + 号
-
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
-
-将下面tk配置地址粘贴进去
+打开Shadowrocket - 配置 - 点右上 + 号，将下面tk配置地址粘贴进去
 
 <pre><code><strong>https://itiktok.best/TikTok-Rule.conf
 </strong></code></pre>
+
+<div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
 
 打开Tiktok，登录帐号后使用
 
