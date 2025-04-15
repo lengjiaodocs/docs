@@ -6,7 +6,7 @@
 
 ## 下载APP
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/Ebb905MR60dBgv-02AUR1isB_P8-rBRIbZApDe5wptamHg?download=1)并安装App
+[『点我下载』](https://www.now61.com/f/wDjNia/Lj.apk)并安装App
 
 {% hint style="info" %}
 <mark style="color:blue;">下载后，如无法安装，请更换浏览器下载，建议火狐或者Chrome浏览器</mark>
