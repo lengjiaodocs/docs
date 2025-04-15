@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://www.now61.com/f/AmBkTg/LJGame_new.zip) 并解压软件
+[『点我下载』](https://www.now61.com/f/AmBkTg/LJGame_new.zip) 并解压软件1
 
 ## 软件环境
 
