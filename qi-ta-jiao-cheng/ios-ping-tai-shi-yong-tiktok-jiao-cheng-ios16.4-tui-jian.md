@@ -31,7 +31,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 如果你没有配置软件，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好，然后添加tiktok配置
 
-
+<div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
 
 打开Tiktok，登录帐号后使用
 
