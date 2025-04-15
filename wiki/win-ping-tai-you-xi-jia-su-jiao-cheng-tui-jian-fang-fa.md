@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWOFvlcw3DJGirhsn_JuvL4BmTz2hCvUKTD9UZla4tJdxA?download=1) 并解压软件
+[『点我下载』](https://www.now61.com/f/AmBkTg/LJGame_new.zip) 并解压软件
 
 ## 软件环境
 

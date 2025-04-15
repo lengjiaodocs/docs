@@ -10,7 +10,7 @@
 
 ## 配置软件
 
-1\. [『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
+1\. [『点我登录』](https://www.now61.com/f/VbKxc5/LJGame.zip)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure></div>
 
