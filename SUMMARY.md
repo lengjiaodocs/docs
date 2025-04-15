@@ -15,7 +15,8 @@
 
 ## 其它教程
 
-* [Ios平台使用TikTok教程(IOS≤16.4)](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4.md)
+* [Ios平台使用TikTok教程(IOS≤16.4)](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)
+* [Ios平台使用TikTok教程(IOS>16.4)-推荐](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4-tui-jian.md)
 * [Android平台使用TikTok教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
 
 ## 常见问题
