@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-&#x20;[『点我下载』](https://www.now61.com/f/gJlYIL/Lj_win.zip)软件后并解压软件
+&#x20;[『点我下载』](https://www.now61.com/f/gJlYIL/Lj_win.zip)软件后并解压软件1
 
 ## 配置软件
 
