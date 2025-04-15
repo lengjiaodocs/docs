@@ -38,7 +38,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
 
-打开Tiktok，登录帐号后使用
+连接节点，登录帐号后使用
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a9b5.png" alt=""><figcaption></figcaption></figure></div>
 
