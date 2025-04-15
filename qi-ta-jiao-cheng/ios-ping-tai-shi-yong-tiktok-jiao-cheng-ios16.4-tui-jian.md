@@ -27,9 +27,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 * 搜索tiktok下载安装
 * 下载后换回自己的ID
 
-## 添加tiktok配置，连接软件，打开TikTok
-
-添加tiktok配置
+## 添加tiktok配置，连接节点，打开TikTok
 
 打开Shadowrocket - 配置 - 点右上 + 号，将下面tk配置地址粘贴进去
 
@@ -43,7 +41,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a9b5.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-&#x20;建议看哪个国家tiktok，就用哪个国家的节点
+&#x20;建议看哪个国家tiktok，就用哪个国家的节点，如果你做tiktok运营，需要专属节点可以联系官网客服
 {% endhint %}
 
 {% hint style="danger" %}
