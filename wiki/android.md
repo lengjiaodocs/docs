@@ -6,7 +6,7 @@
 
 ## 下载APP
 
-[『点我下载』](https://www.now61.com/f/wDjNia/Lj.apk)并安装App1
+[『点我下载』](https://www.now61.com/f/wDjNia/Lj.apk)并安装App
 
 {% hint style="info" %}
 <mark style="color:blue;">下载后，如无法安装，请更换浏览器下载，建议火狐或者Chrome浏览器</mark>
