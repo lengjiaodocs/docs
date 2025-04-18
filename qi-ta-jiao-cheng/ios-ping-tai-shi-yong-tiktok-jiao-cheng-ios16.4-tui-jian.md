@@ -37,12 +37,12 @@ https://www.now61.com/f/prW6sP/TikTok-Rule.conf
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/67fe082a88c538a9b5d18403.png" alt=""><figcaption></figcaption></figure></div>
 
-连接节点，登录帐号后使用
+连接节点，登录tiktok帐号后使用
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b9e6871b83018ad0a9b5.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-<mark style="color:blue;">建议看哪个国家tiktok，就用哪个国家的节点，如果你做tiktok运营，需要专属节点可以联系官网客服</mark>
+<mark style="color:blue;">建议看哪个国家tiktok，就用哪个国家的节点，如果你做tiktok运营，需要专属节点可以联系</mark> [<mark style="color:blue;">官网</mark>](https://lengjiao.me) <mark style="color:blue;">右下方客服</mark>
 {% endhint %}
 
 {% hint style="danger" %}
