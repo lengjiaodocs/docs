@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-&#x20;[『点我下载』](https://www.now61.com/f/gJlYIL/Lj_win.zip)软件后并解压软件1
+&#x20;[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EY6LG2QbjGhOgFIgPiVsoWUBx6GXlrpfJCBmWO7DAf0y-g?download=1)软件后并解压软件1
 
 ## 配置软件
 

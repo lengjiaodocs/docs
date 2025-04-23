@@ -10,7 +10,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://www.now61.com/f/Dz7Rfq/Lj_mac.zip)软件，打开软件，如果提示恶意软件(如下图)：
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBpvRcnjUdIn6nEKX28X01PA?download=1)软件，打开软件，如果提示恶意软件(如下图)：
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65e098cb9f345e8d03cb62af.png" alt=""><figcaption></figcaption></figure></div>
 
