@@ -2,11 +2,11 @@
 
 ## **前言**
 
-您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
+您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系【[官网](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
 
 ## 下载软件
 
-&#x20;[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EY6LG2QbjGhOgFIgPiVsoWUBx6GXlrpfJCBmWO7DAf0y-g?download=1)软件后并解压软件1
+[ 『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EY6LG2QbjGhOgFIgPiVsoWUBx6GXlrpfJCBmWO7DAf0y-g?download=1)软件后并解压软件1
 
 ## 配置软件
 
