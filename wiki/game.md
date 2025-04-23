@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://www.now61.com/f/VbKxc5/LJGame.zip)软件后并安装软件1
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/Eb8Fqya9_W9BvNzlCNuTllsB0wxQ37qxTW354zr3J3phMQ?download=1)软件后并安装软件1
 
 ## 配置软件
 

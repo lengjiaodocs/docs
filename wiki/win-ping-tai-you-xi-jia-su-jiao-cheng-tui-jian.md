@@ -1,4 +1,4 @@
-# Win平台游戏加速教程-推荐方法
+# Win平台游戏加速教程-推荐
 
 ## 前言
 
@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』](https://www.now61.com/f/AmBkTg/LJGame_new.zip) 并解压软件1
+[『点我下载』 ](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoB23vKCkXn0WDNbhu4Mii0qQ?download=1)并解压软件1
 
 ## 软件环境
 
