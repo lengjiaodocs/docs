@@ -6,7 +6,7 @@
 
 ## 下载软件
 
-[『点我下载』 ](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoB23vKCkXn0WDNbhu4Mii0qQ?download=1)并解压软件1
+[『点我下载』](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy83MzRhZmI0ZGUyNTNlNjAyL0VkQklQWkZjQWwxUHNMSUtXdHRjZGprQlBmSXR3aEhWa29qUktQSWQ3M3FrUmc_ZT1ZeElGVkc.zip)并解压软件1
 
 ## 软件环境
 
