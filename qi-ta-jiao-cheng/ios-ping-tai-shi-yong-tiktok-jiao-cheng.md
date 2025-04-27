@@ -14,11 +14,11 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 2\. 电脑下载TikTok 安装包，以下任选其一
 
-[Tiktok v24.4.3](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EermZVUsUXBMiGrswcoz6FIBXvwuN88tTXMk47r1Bzn2Uw?download=1) (可切换国家地区)
+[Tiktok v24.4.3](https://www.now61.com/f/Bx5NHp/tiktok%20v24.4.3.ipa) (可切换国家地区)
 
-[Tiktok v25.8.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/Ecps1zMHWhRGmf0ZHO9hyU8ByeFrFrLoG3pOkYUS937XTw?download=1) (提示更新下载这个)
+[Tiktok v25.8.0](https://www.now61.com/f/N3Kdup/tiktok%20v25.8.0.ipa) (提示更新下载这个)
 
-[Tiktok V30.5.0](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfziWHxHr3lMo-_eI8chhVgByLRlgprCIWYR6OPaa6cf9w?download=1) (插件版本，功能多，推荐) [查看插件说明](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#30.5.0-ban-ben-cha-jian-shuo-ming)
+[Tiktok V30.5.0](https://www.now61.com/f/xRrWi0/tiktok%20v30.5.0.ipa) (插件版本，功能多，推荐) [查看插件说明](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#30.5.0-ban-ben-cha-jian-shuo-ming)
 
 3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
 
