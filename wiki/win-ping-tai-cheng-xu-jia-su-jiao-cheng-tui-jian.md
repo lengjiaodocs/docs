@@ -1,5 +1,5 @@
 ---
-description: 适合win游戏，WhatsApp，Discord等等
+description: 适合Win游戏，WhatsApp，Discord等等
 ---
 
 # Win平台程序加速教程-推荐
