@@ -1,4 +1,8 @@
-# Win平台游戏加速教程-推荐
+---
+description: 适合win游戏，WhatsApp等等
+---
+
+# Win平台程序加速教程-推荐
 
 ## 前言
 

@@ -11,7 +11,7 @@
 * [Android平台使用教程-推荐](wiki/android-1.md)
 * [Ios/M1/M2/M3平台使用教程](wiki/ios.md)
 * [Win平台游戏加速教程](wiki/game.md)
-* [Win平台游戏加速教程-推荐](wiki/win-ping-tai-you-xi-jia-su-jiao-cheng-tui-jian.md)
+* [Win平台程序加速教程-推荐](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
 
 ## 其它教程
 
