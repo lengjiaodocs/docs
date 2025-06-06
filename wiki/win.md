@@ -6,7 +6,7 @@
 
 
 
-如果你要加速win游戏，WhatsApp等等，请看 [Win平台程序加速教程-推荐](win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
+如果你要加速Win游戏，WhatsApp等等，务必请看 [Win平台程序加速教程-推荐](win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
 
 ## 下载软件
 
