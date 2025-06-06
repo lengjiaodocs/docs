@@ -4,6 +4,10 @@
 
 您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
 
+
+
+如果你要加速win游戏，WhatsApp等等，请看 [Win平台程序加速教程-推荐](win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
+
 ## 下载软件
 
 &#x20;[『点我下载』](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy83MzRhZmI0ZGUyNTNlNjAyL0VidzlPX2xuLW5sTnZISGc2VUN1WERBQmtfZndKM1RvbGJTUnZLd0ZMMzZtWEE_ZT1HOWpkSjk.zip)软件后并解压软件1
