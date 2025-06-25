@@ -6,7 +6,7 @@
 
 
 
-<mark style="color:red;">如果你要加速Win游戏，WhatsApp，Dmm游戏，Discord</mark><mark style="color:red;">等，务必请看</mark> [Win平台程序加速教程-推荐](win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
+<mark style="color:red;">如果你要加速Win游戏，WhatsApp，Dmm游戏，Discord等等，务必请看</mark> [Win平台程序加速教程-推荐](win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
 
 ## 下载软件
 
