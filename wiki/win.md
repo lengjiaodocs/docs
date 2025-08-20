@@ -10,7 +10,7 @@
 
 ## 下载软件
 
-&#x20;[『点我下载』](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy83MzRhZmI0ZGUyNTNlNjAyL0VmMDI1SGpFRGRWQ2tiQTdfMndsSTdNQkZJUGYyQ21lWTJYWkhiNFd3OTNhQXc_ZT1qd2lQZUQ.zip)软件后并解压软件1
+&#x20;[『点我下载』](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy83MzRhZmI0ZGUyNTNlNjAyL0VmMDI1SGpFRGRWQ2tiQTdfMndsSTdNQkZJUGYyQ21lWTJYWkhiNFd3OTNhQXc_ZT1qd2lQZUQ.zip)软件后并解压软件
 
 ## 配置软件
 
