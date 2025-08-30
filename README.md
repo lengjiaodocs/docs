@@ -12,5 +12,5 @@
 
 ## 联系方式
 
-有任何问题联系邮件 lengjiao5@outlook.com 或者[官网](https://www.lengjiao.me)下方在线客服
+有任何问题联系邮件 lengjiao55@outlook.com 或者[官网](https://www.lengjiao.me)下方在线客服
 
