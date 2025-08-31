@@ -6,7 +6,7 @@
 
 ## 安装TikTok
 
-[『点我下载』](https://now61.cn/s/eJ7Wfe)并安装TikTok&#x20;
+[『点我下载』](https://www.now61.cn/s/r6O5Im)并安装TikTok&#x20;
 
 [『点我下载』](https://now61.cn/s/Vd4Dhd)并安装TikTok插件
 
