@@ -10,7 +10,7 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 ## 下载软件
 
-[『点我下载』](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy83MzRhZmI0ZGUyNTNlNjAyL0VkQklQWkZjQWwxUHNMSUtXdHRjZGprQlBmSXR3aEhWa29qUktQSWQ3M3FrUmc_ZT1ZeElGVkc.zip)并解压软件
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)并解压软件
 
 ## 软件环境
 
