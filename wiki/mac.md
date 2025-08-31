@@ -36,6 +36,10 @@ sudo spctl --master-disable
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65e092489f345e8d03b35aad.png" alt=""><figcaption></figcaption></figure></div>
 
+{% hint style="info" %}
+<mark style="color:red;">如果屏幕右上角没有小木马图标，应该开太多程序遮挡住了，请退出不用的程序</mark>
+{% endhint %}
+
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65e2875f9f345e8d030d7795.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
