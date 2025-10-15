@@ -2,31 +2,37 @@
 
 💻 Windows
 
-点我下载1   备份下载2   备份下载3
+[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)   [备份下载3](https://www.now61.cn/s/WXvksE)
 
 \----------------------------------------------------
 
 💻Win平台程序加速
 
-点我下载1   备份下载2   备份下载3
+[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?e=rYZj4D)   [备份下载3](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)
 
 \----------------------------------------------------
 
 🍏 Mac
 
-&#x20;点我下载1   备份下载2   备份下载3
+&#x20;[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?download=1)   [备份下载2](https://app.gitbook.com/o/xHlEOD54ovijaF3vAeG2/s/-Mh9WrdEHC1diHVO6dWK/)   [备份下载3](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)
 
 \----------------------------------------------------
 
 📱 Android
 
-点我下载1   备份下载2   备份下载3
+[点我下载1](https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev/Lj.apk)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWDhnVrl6hlDmFQAeNmmHtoBtPDYTx5UqxCFGgIi2WT3cQ?e=Fqsq1e)   [备份下载3](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)
+
+***
+
+📱 Android - 推荐
+
+[点我下载1](https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev/Lj1.apk)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWZ6GAN5M7tBjNV670H2f9sBzzBpVUh_OzvBXaZGUaaYqg?e=qI2qEC)   [备份下载3](https://www.now61.cn/s/EJ3ZCb)
 
 \----------------------------------------------------
 
 🍎 iOS
 
-AppleID账号
+[AppleID账号](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 
 \----------------------------------------------------
 
