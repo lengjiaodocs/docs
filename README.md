@@ -5,10 +5,12 @@
 * 使用此服务代表您接受本司[『使用条款』](https://www.lengjiao.me/terms.html)，违反者自行承担责任
 * 严禁在任何地方公开节点信息，发现者一律删号并不退款
 * 严禁下载BT、盗版、群发垃圾邮件、扫描、政治行为
-* [下载中心](wiki/download.md)
-* 💻 [Win教程](wiki/win.md)&#x20;
-* 🍏[Mac教程](wiki/mac.md)   [Android教程](wiki/android.md)   [Android教程 - 推荐](wiki/android-1.md)   [Ios/M1/M2/M3教程](wiki/ios.md)   [Win游戏加速教程](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
-* [Tiktok(Ios)教程](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)   [Tiktok(Ios)教程 - 推荐](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4-tui-jian.md)   [Tiktok(Android)教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
+* ⬇️ [下载中心](wiki/download.md)
+* 💻 [Win教程](wiki/win.md)    [Win平台程序加速教程](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
+* 🍏 [Mac教程](wiki/mac.md)   [M1/M2/M3/M4教程](wiki/ios.md)
+* 📱 [Android教程](wiki/android.md)   [Android教程 - 推荐](wiki/android-1.md)
+* 🍎 [iOS教程](https://chatgpt.com/c/68eef507-10ec-832d-87d8-e5ce80d4caf1)
+* 🎵 [Tiktok(Ios)教程](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)   [Tiktok(Ios)教程 - 推荐](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4-tui-jian.md)   [Tiktok(Android)教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
 
 
 
