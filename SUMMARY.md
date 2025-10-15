@@ -21,6 +21,6 @@
 
 ## 常见问题
 
-* [问题锦囊](chang-jian-wen-ti/faq.md)
+* [FAQ](chang-jian-wen-ti/faq.md)
 * [手动更新订阅](chang-jian-wen-ti/geng-xin-ding-yue.md)
 * [重新购买服务后操作](chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
