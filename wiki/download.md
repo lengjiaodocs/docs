@@ -32,7 +32,7 @@
 
 🍎 iOS
 
-[AppleID账号](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
+[AppleID账号](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)   [点我下载1](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 \------------------------------------------------------------
 
