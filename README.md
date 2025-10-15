@@ -9,7 +9,7 @@
 * 💻 [Win教程](wiki/win.md)    [Win平台程序加速教程](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
 * 🍏 [Mac教程](wiki/mac.md)   [M1/M2/M3/M4教程](wiki/ios.md)
 * 📱 [Android教程](wiki/android.md)   [Android教程 - 推荐](wiki/android-1.md)
-* 🍎 [iOS教程](https://chatgpt.com/c/68eef507-10ec-832d-87d8-e5ce80d4caf1)
+* 🍎 [iOS教程](wiki/ios.md)
 * 🎵 [Tiktok(Ios)教程](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)   [Tiktok(Ios)教程 - 推荐](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4-tui-jian.md)   [Tiktok(Android)教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
 
 
