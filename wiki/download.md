@@ -38,5 +38,5 @@
 
 🎵Tiktok
 
-IOS   IOS-推荐   Android
+[IOS](../qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)   [IOS-推荐](../qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4-tui-jian.md)   [Android](../qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
 
