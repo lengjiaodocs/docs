@@ -2,25 +2,25 @@
 
 💻 Windows
 
-[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)   [备份下载3](https://www.now61.cn/s/WXvksE)
+[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?e=5DbRH1)   [备份下载3](https://www.now61.cn/s/WXvksE)
 
 \----------------------------------------------------
 
 💻Win平台程序加速
 
-[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?e=rYZj4D)   [备份下载3](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)
+[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?e=rYZj4D)   [备份下载3](https://www.now61.cn/s/5NZOH7)
 
 \----------------------------------------------------
 
 🍏 Mac
 
-&#x20;[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?download=1)   [备份下载2](https://app.gitbook.com/o/xHlEOD54ovijaF3vAeG2/s/-Mh9WrdEHC1diHVO6dWK/)   [备份下载3](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)
+&#x20;[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?e=CzO5cF)   [备份下载3](https://www.now61.cn/s/zgONtq)
 
 \----------------------------------------------------
 
 📱 Android
 
-[点我下载1](https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev/Lj.apk)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWDhnVrl6hlDmFQAeNmmHtoBtPDYTx5UqxCFGgIi2WT3cQ?e=Fqsq1e)   [备份下载3](https://app.gitbook.com/u/FQXfkQy2QcYDXeSYHnG9tPasyoQ2)
+[点我下载1](https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev/Lj.apk)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWDhnVrl6hlDmFQAeNmmHtoBtPDYTx5UqxCFGgIi2WT3cQ?e=Fqsq1e)   [备份下载3](https://www.now61.cn/s/GAVluz)
 
 ***
 
