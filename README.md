@@ -6,7 +6,7 @@
 * 严禁在任何地方公开节点信息，发现者一律删号并不退款
 * 严禁下载BT、盗版、群发垃圾邮件、扫描、政治行为
 
-## 帮助中心导航
+## 导航
 
 * ⬇️ [下载中心](wiki/download.md)
 * 💻 [Win教程](wiki/win.md)    [Win平台程序加速教程](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
