@@ -2,7 +2,7 @@
 description: 不拔卡、可登录，无黑屏、可换区
 ---
 
-# Ios平台使用TikTok教程(IOS>16.4)-推荐
+# 🎵Ios平台使用TikTok教程(IOS>16.4)-推荐
 
 **前言**
 
@@ -46,6 +46,8 @@ https://www.now61.cn/f/prW6sP/TikTok-Rule.conf
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">**部分节点无法刷出内容，请更换节点**</mark>
+<mark style="color:red;">**1 部分节点无法刷出内容，请更换节点**</mark>
+
+<mark style="color:red;">**2 如果提示网络错误，请登录tiktok账户，没有账户可联系**</mark> [<mark style="color:red;">**棱角官网**</mark>](https://www.lengjiao.me/) <mark style="color:red;">**右下角客服购买**</mark>
 {% endhint %}
 

@@ -9,7 +9,7 @@
 ## 导航
 
 * ⬇️ [下载中心](wiki/download.md)
-* 💻 [Win教程](wiki/win.md)｜[Win平台程序加速教程](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
+* 💻 [Win教程](wiki/win.md)｜[Win平台程序加速教程-推荐](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
 * 🍏 [Mac教程](wiki/mac.md)｜[M1/M2/M3/M4教程](wiki/ios.md)
 * 📱 [Android教程](wiki/android.md)｜[Android教程 - 推荐](wiki/android-1.md)
 * 🍎 [iOS教程](wiki/ios.md)
