@@ -1,4 +1,4 @@
-# Ios/M1/M2/M3平台使用教程
+# 🍎Ios/M1/M2/M3/M4平台使用教程
 
 ## 前言
 
@@ -6,7 +6,7 @@
 
 ## 下载App
 
-* 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
+* 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录** [**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd1255.png" alt=""><figcaption></figcaption></figure></div>
 
