@@ -12,7 +12,7 @@
 * 💻 [Win教程](wiki/win.md)｜[Win平台程序加速教程-推荐](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-tui-jian.md)
 * 🍏 [Mac教程](wiki/mac.md)｜[M1/M2/M3/M4教程](wiki/ios.md)
 * 📱 [Android教程](wiki/android.md)｜[Android教程 - 推荐](wiki/android-1.md)
-* 🍎 [iOS教程](wiki/ios.md)
+* 🍎 [iOS教程](wiki/ios.md)｜[美区ID](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 * 🎵 [Tiktok(Ios)教程](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng.md)｜[Tiktok(Ios)教程 - 推荐](qi-ta-jiao-cheng/ios-ping-tai-shi-yong-tiktok-jiao-cheng-ios16.4-tui-jian.md)｜[Tiktok(Android)教程](qi-ta-jiao-cheng/android-ping-tai-shi-yong-tiktok-jiao-cheng.md)
 * 🛠️ [手动更新订阅](chang-jian-wen-ti/geng-xin-ding-yue.md)｜[重新购买服务后操作](chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
 * ❓[FAQ](chang-jian-wen-ti/faq.md)
