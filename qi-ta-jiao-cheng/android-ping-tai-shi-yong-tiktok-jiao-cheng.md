@@ -1,4 +1,4 @@
-# Android平台使用TikTok教程
+# 🎵Android平台使用TikTok教程
 
 ## **前言**
 
@@ -6,9 +6,9 @@
 
 ## 安装TikTok
 
-[『点我下载』](https://www.now61.cn/s/r6O5Im)并安装TikTok&#x20;
+[『点我下载』](https://www.now61.cn/s/qyYquk)并安装TikTok&#x20;
 
-[『点我下载』](https://now61.cn/s/Vd4Dhd)并安装TikTok插件
+[『点我下载』](https://www.now61.cn/s/lzB6fm)并安装TikTok插件
 
 ## 配置软件
 
