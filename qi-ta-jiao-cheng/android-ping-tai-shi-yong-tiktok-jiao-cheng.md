@@ -23,5 +23,9 @@
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">**部分节点无法刷出内容，请更换节点**</mark>
+<mark style="color:red;">**无法刷出内容：**</mark>
+
+* <mark style="color:red;">**更换节点**</mark>
+* <mark style="color:red;">**检查 TikTok 和插件的网络权限是否已开启**</mark>
 {% endhint %}
+
