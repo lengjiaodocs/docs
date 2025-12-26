@@ -2,6 +2,7 @@
 
 ## 帮助须知
 
+* <mark style="color:red;">本服务可以帮你在任何设备上打开任何网站/APP，没购买服务，请</mark>[<mark style="color:red;">点我购买</mark>](https://www.lengjiao.me/cart.php)
 * 使用此服务代表您接受本司[『使用条款』](https://www.lengjiao.me/terms.html)，违反者自行承担责任
 * 严禁在任何地方公开节点信息，发现者一律删号并不退款
 * 严禁下载BT、盗版、群发垃圾邮件、扫描、政治行为
