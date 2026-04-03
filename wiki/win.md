@@ -52,7 +52,7 @@
 
 <mark style="color:$success;">用途：只代理部分国外网站，国内直连</mark>
 
-<mark style="color:$success;">系统代理：pac</mark>\ <mark style="color:$success;">代理规则：绕过局域网和大陆</mark>
+<mark style="color:$success;">系统代理模式：pac</mark>\ <mark style="color:$success;">代理规则：绕过局域网和大陆</mark>
 
 <mark style="color:$success;">优点：自动分流，最省流量、最常用</mark>
 
@@ -60,7 +60,7 @@
 
 <mark style="color:blue;">用途：所有国外走代理，国内直连（更稳定）</mark>
 
-<mark style="color:blue;">系统代理：全局模式</mark>\ <mark style="color:blue;">代理规则：绕过局域网和大陆</mark>
+<mark style="color:blue;">系统代理模式：全局模式</mark>\ <mark style="color:blue;">代理规则：绕过局域网和大陆</mark>
 
 <mark style="color:blue;">优点：兼容性更好，适合部分网站打不开时使用</mark>
 
@@ -68,7 +68,7 @@
 
 <mark style="color:red;">用途：所有国内外流量都走代理</mark>
 
-<mark style="color:red;">系统代理：全局模式</mark>\ <mark style="color:red;">代理规则：全局</mark>
+<mark style="color:red;">系统代理模式：全局模式</mark>\ <mark style="color:red;">代理规则：全局</mark>
 
 <mark style="color:red;">缺点：耗流量大，不推荐长期使用</mark>
 
