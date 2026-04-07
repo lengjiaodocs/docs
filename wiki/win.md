@@ -62,7 +62,7 @@
 
 <mark style="color:blue;">系统代理模式：全局模式</mark>\ <mark style="color:blue;">代理规则：绕过局域网和大陆</mark>
 
-<mark style="color:blue;">优点：兼容性更好，适合部分网站打不开时使用</mark>
+<mark style="color:blue;">优点：兼容性更好，能打开所有国外网站</mark>
 
 <mark style="color:red;">模式三（全代理）</mark>
 
