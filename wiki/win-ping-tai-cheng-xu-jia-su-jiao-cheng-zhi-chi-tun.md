@@ -11,7 +11,7 @@ hidden: true
 
 ## 下载软件
 
-[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)并解压软件
+[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)并解压软件 [点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?e=rYZj4D)   [备份下载3](https://www.now61.cn/s/5NZOH7)
 
 ## 软件环境
 

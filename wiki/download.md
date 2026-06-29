@@ -8,7 +8,7 @@
 
 💻Win平台程序加速 - 推荐
 
-[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/ERTNre8LCMRNgvvSx_29SpoBcbdw4XBbyd0pZRO5CcBiFQ?e=rYZj4D)   [备份下载3](https://www.now61.cn/s/5NZOH7)
+[点我下载1](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)   [备份下载2](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)
 
 \------------------------------------------------------------
 
