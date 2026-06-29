@@ -1,8 +1,9 @@
 ---
 description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏，Discord，Claude，Cursor，Codex等等
+hidden: true
 ---
 
-# 💻Win平台程序加速教程-推荐(支持Tun)
+# 💻Win平台程序加速教程(支持Tun)
 
 ## 前言
 

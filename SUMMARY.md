@@ -5,6 +5,7 @@
 ## 使用教程 <a href="#wiki" id="wiki"></a>
 
 * [⬇️下载中心](wiki/download.md)
+* [💻Win平台使用教程-推荐(支持Tun)](wiki/win-ping-tai-shi-yong-jiao-cheng-tui-jian-zhi-chi-tun.md)
 * [💻Win平台使用教程-推荐](wiki/win.md)
 * [💻Win平台程序加速教程(支持Tun)](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-zhi-chi-tun.md)
 * [🍏Mac平台使用教程](wiki/mac.md)
