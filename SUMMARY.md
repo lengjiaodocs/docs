@@ -6,7 +6,7 @@
 
 * [⬇️下载中心](wiki/download.md)
 * [💻Win平台使用教程-推荐(支持Tun)](wiki/win-ping-tai-shi-yong-jiao-cheng-tui-jian-zhi-chi-tun.md)
-* [💻Win平台使用教程-推荐](wiki/win.md)
+* [💻Win平台使用教程](wiki/win.md)
 * [🍏Mac平台使用教程](wiki/mac.md)
 * [🍎Ios/M1/M2/M3/M4平台使用教程](wiki/ios.md)
 * [📱Android平台使用教程](wiki/android.md)
