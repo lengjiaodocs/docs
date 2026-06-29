@@ -1,4 +1,4 @@
-# 💻Win平台使用教程-推荐
+# 💻Win平台使用教程
 
 ## **前言**
 
@@ -6,7 +6,7 @@
 
 
 
-<mark style="color:red;">如果你要加速 Win游戏或程序，WhatsApp，Dmm游戏，Discord等等，务必请看</mark> [Win平台程序加速教程-推荐](win-ping-tai-cheng-xu-jia-su-jiao-cheng-zhi-chi-tun.md)
+<mark style="color:red;">如果你要加速 Win游戏或程序，WhatsApp，Dmm游戏，Discord等等，务必请看</mark> [Win平台程序加速教程-推荐](win-ping-tai-shi-yong-jiao-cheng-tui-jian-zhi-chi-tun.md)
 
 ## 下载软件
 
