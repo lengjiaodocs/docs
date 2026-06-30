@@ -11,7 +11,7 @@
 * [🍎Ios/M1/M2/M3/M4平台使用教程](wiki/ios.md)
 * [📱Android平台使用教程-推荐](wiki/android-ping-tai-shi-yong-jiao-cheng-tui-jian.md)
 * [📱Android平台使用教程](wiki/android.md)
-* [📱Android平台使用教程-推荐](wiki/android-1.md)
+* [📱Android平台使用教程-推荐1](wiki/android-1.md)
 * [🍏Mac平台使用教程](wiki/mac.md)
 * [💻Win平台程序加速教程(支持Tun)](wiki/win-ping-tai-cheng-xu-jia-su-jiao-cheng-zhi-chi-tun.md)
 * [Win平台游戏加速教程](wiki/game.md)
