@@ -2,7 +2,7 @@
 
 💻 Windows
 
-[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?e=5DbRH1)   [备份下载3](https://www.now61.cn/s/WXvksE)
+[备份下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?e=5DbRH1)   [备份下载3](https://www.now61.cn/s/WXvksE)
 
 \------------------------------------------------------------
 
