@@ -12,7 +12,7 @@
 
 ## 配置软件
 
-如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android.md)配置好
+如果你没有配置软件，请参照[『Android平台使用教程』](../wiki/android-1.md)配置好
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b7c2871b83018ac7bcfe.png" alt=""><figcaption></figcaption></figure></div>
 

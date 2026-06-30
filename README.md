@@ -29,8 +29,8 @@
 
 
 
-* 📱[Android平台使用教程-推荐](wiki/android-1.md)
-* 📱[Android平台使用教程](wiki/android.md)
+* 📱[Android平台使用教程-推荐](wiki/android.md)
+* 📱[Android平台使用教程](wiki/android-1.md)
 
 
 

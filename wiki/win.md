@@ -10,17 +10,17 @@
 
 ## 下载软件
 
-&#x20;[『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)软件后并解压软件
+&#x20;[点我下载](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1) 软件后并解压软件
 
 ## 配置软件
 
-1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 → 点开『已激活的产品/服务』→ 点击『节点订阅』
+1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 节点订阅
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad402dd.png" alt=""><figcaption></figcaption></figure></div>
 
-2.打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
+2 打开解压后的文件夹，右键以管理员身份运行4.0软件(360卫士提示，选择全部允许)，粘贴订阅地址
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad4037a.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -30,7 +30,7 @@
 <mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新添加订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
 {% endhint %}
 
-3.更新订阅
+3 更新订阅
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40496.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -38,7 +38,7 @@
 <mark style="color:blue;">通常情况下会提示  “服务器订阅更新成功"。如未提示，请退出软件，重新以管理员身份运行软件。</mark>
 {% endhint %}
 
-4.选择合适的服务器，选择后您就能愉快的上网啦
+4 选择合适的服务器，选择后您就能愉快的上网啦
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45b7f.png" alt=""><figcaption></figcaption></figure></div>
 
