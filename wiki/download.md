@@ -1,14 +1,14 @@
 # ⬇️下载中心
 
-💻 Win平台使用教程
-
-[备份下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?e=5DbRH1)   [备份下载3](https://www.now61.cn/s/WXvksE)
-
-\------------------------------------------------------------
-
 💻 Win平台使用教程-推荐(支持Tun)
 
 [备份下载1](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)   [备份下载2](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)
+
+\------------------------------------------------------------
+
+💻 Win平台使用教程
+
+[备份下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EfLZOMSxFkhCuoZB5UkmueMBZDR1fjhLJCa_zCJ3NQW3SQ?e=5DbRH1)   [备份下载3](https://www.now61.cn/s/WXvksE)
 
 \------------------------------------------------------------
 
