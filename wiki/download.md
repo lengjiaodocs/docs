@@ -12,7 +12,7 @@
 
 \------------------------------------------------------------
 
-🍏 Mac
+🍏 Mac平台使用教程-推荐(支持Tun)
 
 intel系列：[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)  [ 备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)
 
@@ -20,19 +20,19 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 
 \------------------------------------------------------------
 
-📱 Android
+📱 Android平台使用教程-推荐
+
+[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)
+
+\------------------------------------------------------------
+
+📱 Android平台使用教程
 
 [点我下载1](https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev/Lj.apk)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWDhnVrl6hlDmFQAeNmmHtoBtPDYTx5UqxCFGgIi2WT3cQ?e=Fqsq1e)   [备份下载3](https://www.now61.cn/s/GAVluz)
 
 \------------------------------------------------------------
 
-📱 Android - 推荐
-
-[点我下载1](https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev/Lj1.apk)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EWZ6GAN5M7tBjNV670H2f9sBzzBpVUh_OzvBXaZGUaaYqg?e=qI2qEC)   [备份下载3](https://www.now61.cn/s/EJ3ZCb)
-
-\------------------------------------------------------------
-
-🍎 iOS
+🍎 Ios/M1/M2/M3/M4平台使用教程
 
 [AppleID账号](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)   [点我下载1](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
