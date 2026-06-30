@@ -2,7 +2,7 @@
 
 ## **前言**
 
-您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
+您在配置碰见任何问题，可以 [点我提交问题](https://www.lengjiao.me/submitticket.php) 或者联系 [官网](https://www.lengjiao.me) 下方在线客服。如果您没有购买服务，请先 [点我购买](https://www.lengjiao.me/cart.php) 服务
 
 
 
@@ -14,7 +14,7 @@
 
 ## 配置软件
 
-1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 — 点开『已激活的产品/服务』— 点击『节点订阅』
+1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区 → 点开『已激活的产品/服务』→ 点击『节点订阅』
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2bab5871b83018ad40227.png" alt=""><figcaption></figcaption></figure></div>
 
