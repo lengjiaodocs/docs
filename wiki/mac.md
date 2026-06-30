@@ -1,4 +1,8 @@
-# Mac平台使用教程
+---
+hidden: true
+---
+
+# 🍏Mac平台使用教程
 
 ## **前言**
 
@@ -9,6 +13,8 @@
 如果你的<mark style="color:red;">Mac型号</mark>是<mark style="color:red;">M1/M2/M3/M4</mark>，强烈建议参照 [**Ios/M1/M2/M3/M4平台使用教程**](ios.md) 配置，更加稳定
 
 ## 下载软件
+
+[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?e=CzO5cF)   [备份下载3](https://www.now61.cn/s/zgONtq)
 
 [『点我下载』](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?download=1)软件，打开软件，如果提示恶意软件(如下图)：
 

@@ -14,7 +14,9 @@
 
 🍏 Mac
 
-&#x20;[点我下载1](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?download=1)   [备份下载2](https://alumninpustedutw-my.sharepoint.com/:u:/g/personal/empty_alumni_npust_edu_tw/EZmPV0jrhQ5KgeMjPpF75FgBYfS85SRchY2FmZcrAjHz2Q?e=CzO5cF)   [备份下载3](https://www.now61.cn/s/zgONtq)
+intel系列：[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)  [ 备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)
+
+M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)
 
 \------------------------------------------------------------
 

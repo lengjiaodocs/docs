@@ -20,7 +20,7 @@
 
 
 
-* 🍏 [Mac平台使用教程](wiki/mac.md)
+* 🍏 [Mac平台使用教程-推荐(支持Tun)](wiki/mac-ping-tai-shi-yong-jiao-cheng-tui-jian-zhi-chi-tun.md)
 
 
 
