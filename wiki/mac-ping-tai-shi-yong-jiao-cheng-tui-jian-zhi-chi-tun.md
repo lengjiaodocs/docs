@@ -30,7 +30,7 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 
 ## 配置软件
 
-1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash
+1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash → 点击 打开FlClash → 添加
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23214.png" alt=""><figcaption></figcaption></figure></div>
 
