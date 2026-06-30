@@ -30,6 +30,7 @@
 
 
 * 📱[Android平台使用教程-推荐](wiki/android-ping-tai-shi-yong-jiao-cheng-tui-jian.md)
+* 📱[Android平台使用教程-推荐](wiki/android-ping-tai-shi-yong-jiao-cheng-tui-jian.md)
 * 📱[Android平台使用教程](wiki/android.md)
 
 
