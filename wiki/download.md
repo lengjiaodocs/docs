@@ -2,7 +2,7 @@
 
 💻 Win平台使用教程-推荐(支持Tun)
 
-[备份下载1](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)   [备份下载2](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-windows-amd64.zip)
+[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-windows-amd64.zip)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-windows-amd64.zip)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-windows-amd64.zip)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-windows-amd64.zip)
 
 \------------------------------------------------------------
 
@@ -14,9 +14,9 @@
 
 🍏 Mac平台使用教程-推荐(支持Tun)
 
-intel系列：[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)  [ 备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-amd64-Intel.dmg)
+intel系列：[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-amd64-Intel.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-amd64-Intel.dmg)  [ 备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-amd64-Intel.dmg)
 
-M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.8-demo/FlClash-0.8.93-macos-arm64-M.dmg)
+M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-arm64-M.dmg)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-macos-arm64-M.dmg)
 
 \------------------------------------------------------------
 
