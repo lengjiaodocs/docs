@@ -49,7 +49,7 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 {% hint style="info" %}
 <mark style="color:$primary;">系统代理：只代理浏览器、聊天软件等支持系统代理的软件，适合日常网页访问</mark>
 
-<mark style="color:$primary;">虚拟网卡：也叫 TUN 模式，可以接管更多软件流量，适合游戏、客户端、部分不走系统代理的软件使用</mark>
+<mark style="color:$primary;">虚拟网卡：也叫 TUN 模式，可以接管所有软件流量，适合游戏、客户端、部分不走系统代理的软件使用</mark>
 {% endhint %}
 
 {% hint style="info" %}
