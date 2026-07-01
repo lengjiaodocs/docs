@@ -24,7 +24,7 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a431b1064740cde7ea470a7.png" alt=""><figcaption></figcaption></figure></div>
 
-系统设置 → 隐私与安全性 → 往下找到提示 → 点 仍要打开 → <mark style="color:red;">**然后退出软件(务必)**</mark>
+系统设置 → 隐私与安全性 → 往下找到提示 → 点 仍要打开 → <mark style="color:red;">**然后右下角退出软件(务必)**</mark>
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a431b1064740cde7ea470a8.png" alt=""><figcaption></figcaption></figure></div>
 
