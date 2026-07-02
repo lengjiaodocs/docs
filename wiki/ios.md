@@ -11,7 +11,7 @@
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd1255.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-<mark style="color:$primary;">**IOS26的系统，请在 设置 - 点账户头像 - 媒体欲购买项目 - 退出登录**</mark>
+<mark style="color:$primary;">**IOS26的系统，请在 设置 - 点账户头像 - 媒体与购买项目 - 退出登录**</mark>
 {% endhint %}
 
 2 **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>**&#x20;**<mark style="color:red;">**(务必选择此项)**</mark>
