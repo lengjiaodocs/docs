@@ -6,7 +6,7 @@
 
 ## 下载App
 
-1 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录** [**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
+1 打开app store，点右上人头，拖到最后，退出(注销)自己ID，然后再登录 [**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd1255.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -14,7 +14,7 @@
 <mark style="color:$primary;">**IOS26的系统，请在 设置 - 点账户头像 - 媒体欲购买项目 - 退出登录**</mark>
 {% endhint %}
 
-2 **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>**&#x20;(务必选择此项)**
+2 **登录后，**<mark style="color:red;">**点其他选项，不升级**</mark>**&#x20;**<mark style="color:red;">**(务必选择此项)**</mark>
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd132c.png" alt=""><figcaption></figcaption></figure></div>
 
