@@ -20,7 +20,7 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 
 
 
-下载并打开软件，可能会提示如下
+下载并打开软件，可能会提示如下，点完成
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a431b1064740cde7ea470a7.png" alt=""><figcaption></figcaption></figure></div>
 
