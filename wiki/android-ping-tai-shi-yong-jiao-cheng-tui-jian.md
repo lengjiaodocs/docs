@@ -14,7 +14,7 @@
 
 1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash → 确定
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a435a73514f59159c63442e.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc29.png" alt=""><figcaption></figcaption></figure></div>
 
 2 选中节点
 

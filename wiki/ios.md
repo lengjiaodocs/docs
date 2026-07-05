@@ -28,19 +28,15 @@
 
 ## 配置App
 
-1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 节点订阅
+1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入小火箭
 
-<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd140a.png" alt=""><figcaption></figcaption></figure></div>
-
-2 打开APP，粘贴订阅地址
-
-<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b90a871b83018acd1527.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc2a.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-<mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新添加订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
+<mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新导入订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
 {% endhint %}
 
-3 选择合适服务器，启动连接
+2 选择合适服务器，启动连接
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b93e871b83018acdf1a7.png" alt=""><figcaption></figcaption></figure></div>
 
