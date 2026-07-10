@@ -32,6 +32,10 @@
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc2a.png" alt=""><figcaption></figcaption></figure></div>
 
+{% hint style="danger" %}
+<mark style="color:red;">导入失败的解决：1 更换浏览器，建议Chrome</mark>
+{% endhint %}
+
 {% hint style="info" %}
 <mark style="color:blue;">每次购买新的服务，订阅地址会改变，需要重新导入订阅地址，续费的不需要，请参考</mark>[『重新购买服务后操作』](../chang-jian-wen-ti/zhong-xin-gou-mai-fu-wu-hou-cao-zuo.md)
 {% endhint %}
