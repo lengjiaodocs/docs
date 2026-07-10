@@ -16,6 +16,10 @@
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc29.png" alt=""><figcaption></figcaption></figure></div>
 
+{% hint style="danger" %}
+<mark style="color:red;">导入失败的解决：1 更换浏览器，建议Chrome</mark>
+{% endhint %}
+
 2 选中节点
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a435a73514f59159c63442c.png" alt=""><figcaption></figcaption></figure></div>
