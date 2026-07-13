@@ -29,7 +29,7 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a431b1064740cde7ea470a8.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-<mark style="color:red;">切记：不要更新FlClash，原版不支持ssr协议，这个修改版支持ssr协议</mark>
+<mark style="color:red;">切记：切勿更新 FlClash，原版不支持 SSR协议，本修改版支持 SSR协议</mark>
 {% endhint %}
 
 ## 配置软件

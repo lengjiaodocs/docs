@@ -11,7 +11,7 @@
 下载后安装并打开软件
 
 {% hint style="danger" %}
-<mark style="color:red;">切记：不要更新FlClash，原版不支持ssr协议，这个修改版支持ssr协议</mark>
+<mark style="color:red;">切记：切勿更新 FlClash，原版不支持 SSR协议，本修改版支持 SSR协议</mark>
 {% endhint %}
 
 ## 配置APP
