@@ -28,6 +28,10 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a431b1064740cde7ea470a8.png" alt=""><figcaption></figcaption></figure></div>
 
+{% hint style="danger" %}
+<mark style="color:red;">切记：不要更新FlClash，原版不支持ssr协议，这个修改版支持ssr协议</mark>
+{% endhint %}
+
 ## 配置软件
 
 1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash → 点击 打开FlClash → 确定
