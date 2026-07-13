@@ -39,7 +39,7 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc2c.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-<mark style="color:red;">导入失败的解决：1 确定FlClash是退出的状态   2 更换浏览器，建议Chrome</mark>
+<mark style="color:red;">导入失败解决方法：1 确定FlClash是退出的状态   2 更换浏览器，建议Chrome</mark>
 {% endhint %}
 
 2 选中节点
