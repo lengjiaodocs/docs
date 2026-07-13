@@ -6,17 +6,17 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 **前言**
 
-您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
+您在配置碰见任何问题，可以 [点我提交问题](https://www.lengjiao.me/submitticket.php) 或者联系 [官网](https://www.lengjiao.me) 下方在线客服。如果您没有购买服务，请先 [点我购买](https://www.lengjiao.me/cart.php) 服务
 
 ## 准备工作
 
 1\. 苹果手机 - 设置 - 通用 - 语言与地区 - 美国(想看哪个国家tiktok就设置哪个国家)
 
-2\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
+2\. 如果你没有配置Shadowrocket，请参照 [Ios/M1/M2平台使用教程](../wiki/ios.md) 配置好
 
 ## 安装TikTok
 
-* 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
+* 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录** [**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd1255.png" alt=""><figcaption></figcaption></figure></div>
 

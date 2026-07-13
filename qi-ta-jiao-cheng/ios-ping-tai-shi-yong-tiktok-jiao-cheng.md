@@ -2,11 +2,11 @@
 description: 不拔卡、可登录，无黑屏、可换区
 ---
 
-# Ios平台使用TikTok教程(IOS≤16.4)
+# 🎵Ios平台使用TikTok教程(IOS≤16.4)
 
 **前言**
 
-您在配置碰见任何问题，可以[『点我提交问题』](https://www.lengjiao.me/submitticket.php)或者联系[『官网』](https://www.lengjiao.me)下方在线客服。如果您没有购买服务，请先[『点我购买』](https://www.lengjiao.me/cart.php)服务
+您在配置碰见任何问题，可以 [点我提交问题](https://www.lengjiao.me/submitticket.php) 或者联系 [官网](https://www.lengjiao.me) 下方在线客服。如果您没有购买服务，请先 [点我购买](https://www.lengjiao.me/cart.php) 服务
 
 ## 准备工作
 
@@ -20,7 +20,7 @@ description: 不拔卡、可登录，无黑屏、可换区
 
 [Tiktok V30.5.0](https://now61.cn/f/N3Kdup/tiktok%20v25.8.0.ipa) (插件版本，功能多，推荐) [查看插件说明](ios-ping-tai-shi-yong-tiktok-jiao-cheng.md#30.5.0-ban-ben-cha-jian-shuo-ming)
 
-3\. 如果你没有配置Shadowrocket，请参照[『Ios/M1/M2平台使用教程』](../wiki/ios.md)配置好
+3\. 如果你没有配置Shadowrocket，请参照 [Ios/M1/M2平台使用教程](../wiki/ios.md) 配置好
 
 ## 签名TikTok
 
