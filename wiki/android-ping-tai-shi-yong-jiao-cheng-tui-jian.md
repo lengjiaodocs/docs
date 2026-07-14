@@ -6,7 +6,7 @@
 
 ## 下载APP
 
-[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.9-ipv6-default/FlClash-0.8.93-android-arm64-v8a.apk)
+[备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.11-no-update/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载2](https://cdn.gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.11-no-update/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载3](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.11-no-update/FlClash-0.8.93-android-arm64-v8a.apk)   [备份下载4](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.0.11-no-update/FlClash-0.8.93-android-arm64-v8a.apk)
 
 下载后安装并打开软件
 
