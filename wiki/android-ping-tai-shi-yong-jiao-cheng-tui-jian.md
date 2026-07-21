@@ -21,7 +21,7 @@
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc29.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-<mark style="color:red;">导入失败解决方法：1 更换浏览器，建议Chrome，</mark>[<mark style="color:red;">点我下载</mark>](https://google-chrome.en.divxland.org/) <mark style="color:red;">并 安装 Chrome</mark>
+<mark style="color:red;">导入失败解决方法：1 更换浏览器，建议Chrome，</mark>[<mark style="color:red;">点我下载</mark>](https://04.apk.dog/storage/21/273/4273/armeabi_v7a/3f5572f204b654051f72fa8b6c5de535/Chrome-150.0.7871.128.apk?s=b69kMvSvvAlLPcNjzayWwQ\&e=1784703411\&lang=en\&apk_id=1163\&premium_speed=0) <mark style="color:red;">并 安装 Chrome</mark>
 {% endhint %}
 
 2 选中节点
