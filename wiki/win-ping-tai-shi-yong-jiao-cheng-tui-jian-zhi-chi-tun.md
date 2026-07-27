@@ -22,6 +22,10 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 <mark style="color:red;">切记：切勿更新 FlClash，原版不支持 SSR协议，本修改版支持 SSR协议</mark>
 {% endhint %}
 
+{% hint style="danger" %}
+<mark style="color:red;">如果打开FlClash报错，或者提示缺少dll文件，请</mark> [<mark style="color:red;">点我下载</mark>](https://aka.ms/vc14/vc_redist.x64.exe?utm_source=chatgpt.com) <mark style="color:red;">并安装VC运行库</mark>
+{% endhint %}
+
 ## 配置软件
 
 1 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash → 点击 打开FlClash → 确定
@@ -30,10 +34,6 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 {% hint style="danger" %}
 <mark style="color:red;">导入失败解决方法：1 确定FlClash是退出的状态   2 更换浏览器，建议Chrome</mark>
-{% endhint %}
-
-{% hint style="danger" %}
-<mark style="color:red;">如果打开FlClash报错，或者提示缺少dll文件，请</mark> [<mark style="color:red;">点我下载</mark>](https://aka.ms/vc14/vc_redist.x64.exe?utm_source=chatgpt.com) <mark style="color:red;">并安装VC运行库</mark>
 {% endhint %}
 
 2 选中节点
