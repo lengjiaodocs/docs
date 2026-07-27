@@ -32,6 +32,10 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 <mark style="color:red;">导入失败解决方法：1 确定FlClash是退出的状态   2 更换浏览器，建议Chrome</mark>
 {% endhint %}
 
+{% hint style="danger" %}
+<mark style="color:red;">如果打开FlClash报错，或者提示缺少dll文件，请</mark> [<mark style="color:red;">点我下载</mark>](https://aka.ms/vc14/vc_redist.x64.exe?utm_source=chatgpt.com) <mark style="color:red;">并安装VC运行库</mark>
+{% endhint %}
+
 2 选中节点
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23213.png" alt=""><figcaption></figcaption></figure></div>
