@@ -16,7 +16,7 @@
 
 ## 配置APP
 
-1 手机浏览器[点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash → 确定
+1 手机浏览器 [点我登录](https://www.lengjiao.me/clientarea.php) 客户区 → 点开 已激活的产品/服务 → 点击 导入FlClash → 确定
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc29.png" alt=""><figcaption></figcaption></figure></div>
 
