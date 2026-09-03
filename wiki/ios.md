@@ -18,7 +18,7 @@
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b909871b83018acd132c.png" alt=""><figcaption></figcaption></figure></div>
 
-3 搜索shadowrocket免费下载安装
+3 搜索shadowrocket免费下载安装，俗称 “小火箭”
 
 4 下载后换回自己的ID
 
