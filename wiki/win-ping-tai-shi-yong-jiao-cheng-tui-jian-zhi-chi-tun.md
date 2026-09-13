@@ -14,7 +14,7 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 
 
-下载并安装软件，然后打开软件，<mark style="color:red;">**然后右下角退出软件(必须)**</mark>
+下载并安装软件 → 打开软件 → <mark style="color:red;">**然后屏幕右下角退出软件(必须)**</mark>
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23216.png" alt=""><figcaption></figcaption></figure></div>
 
