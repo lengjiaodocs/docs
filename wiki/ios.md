@@ -16,7 +16,9 @@
 
 
 
-2 登录 [**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html)
+2 登录美区ID
+
+打开 AppStore - 点右上人头 - 输入美区ID[**(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/IosID.html) - 登陆
 
 登录后，点其他选项，不升级 (务必选择此项)
 
