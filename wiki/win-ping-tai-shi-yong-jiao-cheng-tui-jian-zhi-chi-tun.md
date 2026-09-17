@@ -45,7 +45,7 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23215.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-<mark style="color:red;">系统代理 和 虚拟网卡，只能选择一个，不要两者都选，会很慢</mark>
+<mark style="color:red;">系统代理 和 虚拟网卡，只能选择一个，不要两者都选，速度会很慢</mark>
 {% endhint %}
 
 {% hint style="info" %}
