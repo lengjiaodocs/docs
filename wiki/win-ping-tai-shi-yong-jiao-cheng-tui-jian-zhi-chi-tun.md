@@ -44,6 +44,10 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23215.png" alt=""><figcaption></figcaption></figure></div>
 
+{% hint style="danger" %}
+<mark style="color:red;">系统代理 和 虚拟网卡，只能选择一个，不要两者都选，会很慢</mark>
+{% endhint %}
+
 {% hint style="info" %}
 <mark style="color:$primary;">系统代理：只代理浏览器、聊天软件等支持系统代理的软件，适合日常网页访问</mark>
 
