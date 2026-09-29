@@ -61,3 +61,8 @@ M系列：    [备份下载1](https://gh.dpik.top/https://github.com/LengJiaoSup
 
 <mark style="color:blue;">全局模式：所有网络流量都走代理，适合全部流量走代理的场景，</mark><mark style="color:blue;">**浪费流量**</mark><mark style="color:blue;">，不推荐</mark>
 {% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">启动链接后，无法使用：系统设置 → 隐私与安全性 → 高级 → 需要管理员密码才能访问系统范围设置 → 关闭</mark>
+{% endhint %}
+
