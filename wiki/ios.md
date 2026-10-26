@@ -54,6 +54,14 @@
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b93f871b83018acdf2d3.png" alt=""><figcaption></figcaption></figure></div>
 
+## <mark style="color:red;">DNS配置(强烈推荐)</mark>
+
+按下图修改DNS
+
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034mSvc2MBEPC0VEgOnjol.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
 ## <mark style="color:red;">进阶配置(不推荐配置)</mark>
 
 如果某些网站或者APP无法解锁，请将全局路由改成代理。不推荐使用，因为浪费您的流量
