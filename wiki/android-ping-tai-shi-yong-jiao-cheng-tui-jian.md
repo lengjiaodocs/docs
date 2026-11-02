@@ -38,3 +38,6 @@
 <mark style="color:blue;">全局模式：所有网络流量都走代理，适合全部流量走代理的场景，</mark><mark style="color:blue;">**浪费流量**</mark><mark style="color:blue;">，不推荐</mark>
 {% endhint %}
 
+{% hint style="danger" %}
+<mark style="color:red;">华为手机可能将Flclash禁止联网，请设置下：系统管家 - 病毒查杀 - 已管控应用 - 解除管控</mark>
+{% endhint %}
