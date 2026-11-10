@@ -10,7 +10,7 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 ## 下载软件
 
-[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载5](https://gh.my-website.ccwu.cc/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)
+[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)
 
 
 

@@ -2,7 +2,7 @@
 
 💻 Win平台使用教程-推荐(支持Tun)
 
-[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载5](https://gh.my-website.ccwu.cc/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)
+[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)
 
 \------------------------------------------------------------
 
@@ -14,15 +14,15 @@
 
 🍏 Mac平台使用教程-推荐(支持Tun)
 
-intel系列：[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载5](https://gh.my-website.ccwu.cc/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)
+intel系列：[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-amd64-Intel.dmg)
 
-M系列：    [备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载5](https://gh.my-website.ccwu.cc/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)
+M系列：    [备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-macos-arm64-M.dmg)
 
 \------------------------------------------------------------
 
 📱 Android平台使用教程-推荐
 
-[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载5](https://gh.my-website.ccwu.cc/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)
+[备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-android-arm64-v8a.apk)
 
 \------------------------------------------------------------
 
