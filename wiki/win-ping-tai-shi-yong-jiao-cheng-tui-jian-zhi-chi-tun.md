@@ -12,11 +12,7 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 [备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载2](https://ghfast.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载3](https://ghproxy.net/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)   [备份下载4](https://gh.dpik.top/https://github.com/LengJiaoSupport/FlClash/releases/download/v0.9.3-custom/FlClash-0.9.3-windows-amd64-setup.exe)
 
-
-
-下载并安装软件 → 打开软件 → <mark style="color:red;">**然后屏幕右下角退出软件(必须)**</mark>
-
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23216.png" alt=""><figcaption></figcaption></figure></div>
+下载并安装软件
 
 {% hint style="danger" %}
 <mark style="color:red;">切记：切勿更新 FlClash，原版不支持 SSR协议，本修改版支持 SSR协议</mark>
@@ -33,16 +29,16 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc2b.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-<mark style="color:red;">导入失败解决方法：1 确定FlClash是退出的状态   2 更换浏览器，建议Chrome</mark>
+<mark style="color:red;">导入失败解决方法：请更换浏览器，推荐使用 Chrome</mark>
 {% endhint %}
 
 2 选中节点
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23213.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDeQ3rcHAWbagckcQkR.png" alt=""><figcaption></figcaption></figure></div>
 
 3 启动链接
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4275a864740cde7ea23215.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDeQ3BFSh2rBoLjy3oS.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 <mark style="color:red;">系统代理 和 虚拟网卡，只能选择一个，不要两者都选，速度会很慢</mark>

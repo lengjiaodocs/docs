@@ -21,16 +21,16 @@
 <div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a4a1b1156011c55398ccc29.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
-<mark style="color:red;">导入失败解决方法：1 更换浏览器，建议Chrome，</mark>[<mark style="color:red;">备份下载1</mark>](https://04.apk.dog/storage/21/273/4273/armeabi_v7a/3f5572f204b654051f72fa8b6c5de535/Chrome-150.0.7871.128.apk?s=b69kMvSvvAlLPcNjzayWwQ\&e=1784703411\&lang=en\&apk_id=1163\&premium_speed=0)  [<mark style="color:red;">备份下载2</mark>](https://chrome.apk.gold/)  <mark style="color:red;">并 安装 Chrome</mark>&#x20;
+<mark style="color:red;">导入失败解决方法：请更换浏览器，推荐使用 Chrome（</mark>[<mark style="color:red;">备用下载 1</mark>](https://04.apk.dog/storage/21/273/4273/armeabi_v7a/3f5572f204b654051f72fa8b6c5de535/Chrome-150.0.7871.128.apk?s=b69kMvSvvAlLPcNjzayWwQ\&e=1784703411\&lang=en\&apk_id=1163\&premium_speed=0)<mark style="color:red;">｜</mark>[<mark style="color:red;">备用下载 2</mark>](https://chrome.apk.gold/)<mark style="color:red;">），下载并安装后重新尝试导入</mark>
 {% endhint %}
 
 2 选中节点
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a435a73514f59159c63442c.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034vcRbllKsVSHvzHjY1Ce.png" alt=""><figcaption></figcaption></figure></div>
 
 3 启动链接
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/item/6a435a73514f59159c63442d.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034vcRcbEQ144m96svTQDx.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 <mark style="color:blue;">规则模式：推荐日常使用。国内网站直连，国外网站按规则走代理，</mark><mark style="color:blue;">**节省流量**</mark><mark style="color:blue;">，速度和稳定性更均衡</mark>
