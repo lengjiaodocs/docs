@@ -6,24 +6,24 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 ## Win平台删除订阅和服务器
 
-删除后，参考[**Win平台使用教程**](../wiki/win.md#pei-zhi-ruan-jian)配置(点图片放大看)
+删除后，参考 [**Win平台使用教程-推荐(支持Tun)**](../wiki/win-ping-tai-shi-yong-jiao-cheng-tui-jian-zhi-chi-tun.md) 配置(点图片放大看)
 
-<figure><img src="https://pic.imgdb.cn/item/65a2baca871b83018ad45e34.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wEDglgSSMFpzS8ImpHw.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Mac平台删除订阅和服务器
 
-删除后，参考[**Mac平台使用教程**](../wiki/mac.md#pei-zhi-ruan-jian)配置(点图片放大看)
+删除后，参考 [**Mac平台使用教程-推荐(支持Tun)**](../wiki/mac-ping-tai-shi-yong-jiao-cheng-tui-jian-zhi-chi-tun.md) 配置(点图片放大看)
 
-<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2ba51871b83018ad26e69.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wEDglgSSMFpzS8ImpHw.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Ios平台删除订阅
 
-删除后，参考[**Ios平台使用教程**](../wiki/ios.md#pei-zhi-app)配置
+删除后，参考 [**Ios/M1/M2/M3/M4平台使用教程**](../wiki/ios.md) 配置
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b93f871b83018acdf411.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Android平台删除订阅
 
-删除后，参考[**Adnroid平台使用教程**](../wiki/android.md#pei-zhi-app)配置(点图片放大看)
+删除后，参考 [**Android平台使用教程-推荐**](../wiki/android-1.md) 配置(点图片放大看)
 
 <div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b764871b83018ac639a9.png" alt=""><figcaption></figcaption></figure></div>
