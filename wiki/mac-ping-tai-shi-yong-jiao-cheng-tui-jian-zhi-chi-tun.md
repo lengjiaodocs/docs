@@ -48,7 +48,7 @@ M系列：    [备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSu
 
 3 启动链接
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDeQ3BFSh2rBoLjy3oS.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDp4uJVuwHXpxs9PDvf.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 <mark style="color:$primary;">系统代理：只代理浏览器、聊天软件等支持系统代理的软件，适合日常网页访问</mark>

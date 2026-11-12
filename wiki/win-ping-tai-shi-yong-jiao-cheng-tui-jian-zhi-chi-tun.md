@@ -38,7 +38,7 @@ description: 适合Win平台所有程序，如 Win游戏，WhatsApp，Dmm游戏�
 
 3 启动链接
 
-<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDeQ3BFSh2rBoLjy3oS.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDp4uJVuwHXpxs9PDvf.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 <mark style="color:red;">系统代理 和 虚拟网卡，只能选择一个，不要两者都选，速度会很慢</mark>
