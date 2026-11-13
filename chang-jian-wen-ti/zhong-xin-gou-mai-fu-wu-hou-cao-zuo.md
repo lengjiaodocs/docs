@@ -26,4 +26,4 @@ description: 重新购买服务后，订阅地址改变了，需要删除原来�
 
 删除后，参考 [**Android平台使用教程-推荐**](../wiki/android-1.md) 配置(点图片放大看)
 
-<div align="left"><figure><img src="https://pic.imgdb.cn/item/65a2b764871b83018ac639a9.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wksTrAj4tKJy6MfQ7N9.png" alt=""><figcaption></figcaption></figure></div>
