@@ -50,6 +50,10 @@ M系列：    [备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSu
 
 <div align="left"><figure><img src="https://pic1.imgdb.cn/i/034wDp4uJVuwHXpxs9PDvf.png" alt=""><figcaption></figcaption></figure></div>
 
+{% hint style="danger" %}
+<mark style="color:red;">系统代理 和 虚拟网卡，只能选择一个，不要两者都选，速度会很慢</mark>
+{% endhint %}
+
 {% hint style="info" %}
 <mark style="color:$primary;">系统代理：只代理浏览器、聊天软件等支持系统代理的软件，适合日常网页访问</mark>
 
@@ -63,6 +67,6 @@ M系列：    [备份下载1](https://gh-proxy.org/https://github.com/LengJiaoSu
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">启动链接后，无法使用：系统设置 → 隐私与安全性 → 高级 → 需要管理员密码才能访问系统范围设置 → 关闭</mark>
+<mark style="color:red;">启动链接后，如无法使用：系统设置 → 隐私与安全性 → 高级 → 需要管理员密码才能访问系统范围设置 → 关闭</mark>
 {% endhint %}
 
